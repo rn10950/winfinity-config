@@ -1,0 +1,29 @@
+CommandList=
+CurrentSheet=Process Table
+Height 1080=848
+Height 1200=854
+HostList=
+Sheets[$e]=$HOME/.trinity/share/apps/ksysguard//System Load.sgrd,$HOME/.trinity/share/apps/ksysguard//Process Table.sgrd
+SplitterSizeList=171,837
+Width 1600=1012
+Width 1920=1122
+WorkDir[$e]=$HOME/.trinity/share/apps/ksysguard/
+alarmColor=255,0,0
+backgroundColor=49,48,49
+fgColor1=104,148,201
+fgColor2=104,148,201
+fontSize=9
+isMinimized=true
+sensorColors=#1889ff,#ff7f08,#ffeb14,#ff0000,#00a900,#0028a9,#a92928,#28a929,#297da9,#a9bd7d,#7dbdbd,#bdfdbd,#bde7fd,#fd87e7,#e78787,#87a787,#879ca7,#a7ec9c,#9cecec,#ec7cec,#ec777c,#7c1f77,#771f1f,#1fe71f,#1fe4e7,#e7b8e4,#e4b8b8,#b81cb8,#b81b1c,#1c051b,#1b0505,#05b705
+
+[MainWindow]
+Height 1080=848
+Height 1200=854
+Width 1600=1012
+Width 1920=1122
+
+[RecentFiles]
+File1[$e]=$HOME/.trinity/share/apps/ksysguard//Process Table.sgrd
+File2[$e]=$HOME/.trinity/share/apps/ksysguard//System Load.sgrd
+Name1[$e]=Process Table.sgrd
+Name2[$e]=System Load.sgrd

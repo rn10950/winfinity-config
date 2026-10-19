@@ -1,0 +1,40 @@
+kcminputrc Mouse cursorTheme ''
+/home/ryan/.trinity/share/config/kcminputrc
+!/opt/trinity/share/config/kcminputrc
+*
+kcminputrc Mouse cursorSize ''
+/home/ryan/.trinity/share/config/kcminputrc
+!/opt/trinity/share/config/kcminputrc
+*
+kpersonalizerrc General FirstLogin true
+/home/ryan/.trinity/share/config/kpersonalizerrc
+!/opt/trinity/share/config/kpersonalizerrc
+*
+ksplashrc KSplash Theme Default
+/home/ryan/.trinity/share/config/ksplashrc
+!/opt/trinity/share/config/ksplashrc
+*
+kcmrandrrc Display ApplyOnStartup false
+/home/ryan/.trinity/share/config/kcmrandrrc
+!/opt/trinity/share/config/kcmrandrrc
+*
+kcmrandrrc [Screen0]
+/home/ryan/.trinity/share/config/kcmrandrrc
+!/opt/trinity/share/config/kcmrandrrc
+*
+kcmrandrrc [Screen1]
+/home/ryan/.trinity/share/config/kcmrandrrc
+!/opt/trinity/share/config/kcmrandrrc
+*
+kcmrandrrc [Screen2]
+/home/ryan/.trinity/share/config/kcmrandrrc
+!/opt/trinity/share/config/kcmrandrrc
+*
+kcmrandrrc [Screen3]
+/home/ryan/.trinity/share/config/kcmrandrrc
+!/opt/trinity/share/config/kcmrandrrc
+*
+kcmfonts General forceFontDPI 0
+/home/ryan/.trinity/share/config/kcmfonts
+!/opt/trinity/share/config/kcmfonts
+*

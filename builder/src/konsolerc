@@ -1,0 +1,46 @@
+[$Version]
+update_info=konsole.upd:kde2.2/r1,konsole.upd:trinity.0/r1
+
+[Desktop Entry]
+ActiveSession=0
+AllowResize=false
+AutoResizeTabs=false
+BlinkingCursor=true
+CtrlDrag=true
+CutToBeginningOfLine=false
+DefaultSession=shell.desktop
+DynamicTabHide=false
+EnableBidi=false
+EncodingName=Default
+Fullscreen=false
+Height 1200=840
+LineSpacing=0
+MatchTabWinTitle=false
+MenuAccelerators=false
+SilenceSeconds=10
+TabColor=0,0,0
+TabViewMode=0
+TabsCycleWheel=true
+TerminalSizeHint=false
+WarnQuit=true
+Width 1600=1061
+XonXoff=false
+bellmode=3
+class=konsole-mainwindow#1
+defaultfont=TerminalVector,9,-1,5,50,0,0,0,0,0
+has frame=true
+history=1000
+historyenabled=true
+keytab=default
+metaAsAltMode=false
+schema=GreenOnBlack.schema
+scrollbar=2
+tabbar=2
+wordseps=:@-./_~
+
+[Notification Messages]
+ConfirmCloseSession=false
+
+[TipOfDay]
+RunOnStart=false
+TipLastShown=2019,2,4,22,3,10

@@ -1,0 +1,13 @@
+[Appearance]
+ActiveTaskTextColor=0,0,0
+DrawButtons=true
+InactiveTaskTextColor=0,0,0
+TaskBackgroundColor=195,195,195
+
+[General]
+CycleWheel=false
+MaximumButtonHeight=20
+MinimumButtonHeight=20
+MinimumButtonWidth=100
+ShowAllWindows=false
+SortByApp=false

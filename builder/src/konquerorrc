@@ -1,0 +1,130 @@
+[$Version]
+update_info=kfmclient_3_2.upd:kfmclient_3_2
+
+[FMSettings]
+AlwaysNewWin=false
+DisplayFileSizeInBytes=false
+HomeURL[$e]=$HOME
+HoverCloseButton=true
+MMBOpensTab=true
+NormalTextColor=0,0,0
+RenameIconDirectly=false
+ShowFileTips=true
+ShowPreviewsInFileTips=false
+StandardFont=Microsoft Sans Serif,8,-1,5,50,0,0,0,0,0
+TabCloseActivatePrevious=true
+TextHeight=2
+TextWidth=620
+UnderlineLinks=false
+
+[General]
+ShowAlternativeShortcutConfig=true
+
+[HTML Settings]
+AutomaticDetectionLanguage=0
+
+[HistorySettings]
+OpenGroups=localhost
+
+[KFileDialog Settings]
+Automatic Preview=true
+Autoplay sounds=true
+
+[KParts Plugins]
+searchbarEnabled=false
+
+[KPrinter Settings]
+ApplicationOptions=
+DialogReduced=true
+PrintCommand[$e]=
+Printer=
+
+[KonqMainWindow Toolbar KaboodleToolbar]
+IconText=IconOnly
+Index=4
+
+[KonqMainWindow Toolbar Speech Toolbar]
+IconText=IconOnly
+Index=4
+
+[KonqMainWindow Toolbar VideoToolbar]
+IconText=IconOnly
+Index=5
+
+[KonqMainWindow Toolbar bookmarkToolBar]
+Hidden=true
+IconText=IconTextRight
+Index=0
+
+[KonqMainWindow Toolbar extraToolBar]
+IconText=IconOnly
+Index=1
+
+[KonqMainWindow Toolbar go]
+IconText=IconOnly
+Index=4
+
+[KonqMainWindow Toolbar locationToolBar]
+IconText=IconTextRight
+Index=3
+
+[KonqMainWindow Toolbar mainToolBar]
+IconText=IconTextRight
+Index=2
+
+[KonqMainWindow Toolbar q4fmToolBar1]
+IconText=IconTextRight
+Index=1
+
+[KonqMainWindow Toolbar q4fmToolBar2]
+IconText=IconOnly
+Index=2
+
+[KonqMainWindow Toolbar q4wbToolBar1]
+Hidden=true
+IconText=IconTextRight
+Index=3
+
+[KonqMainWindow Toolbar q4wbToolBar2]
+Hidden=true
+IconText=IconTextRight
+Index=4
+
+
+[ListView_file]
+ColumnWidths=121,77,77,106,82,74,96
+FileNameColumnWidth=621
+SortBy=Size
+
+[ModeToolBarServices]
+external=photobook
+
+[Notification Messages]
+askSaveapplication/octet-stream=yes
+plugin-application/x-shockwave-flash=no
+
+[Open-with settings]
+CompletionMode=5
+History=
+
+[SearchBar]
+CurrentEngine=google
+GoogleSuggestMode=0
+Mode=1
+
+[Settings]
+BgColor=255,255,255
+BgImage=
+
+[Trash]
+ConfirmDelete=true
+ConfirmTrash=true
+
+[kuick-copy]
+ShowRecent=5
+
+[kuick-move]
+ShowRecent=5
+	
+[EmbedSettings]	
+embed-image=false

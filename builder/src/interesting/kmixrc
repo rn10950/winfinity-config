@@ -1,0 +1,17 @@
+AllowDocking=true
+Autostart=true
+DockIconMuting=false
+Labels=true
+MasterMixerDevice=0
+Menubar=true
+Orientation=Horizontal
+Position=422,470
+Size=1052,595
+Tickmarks=true
+TrayVolumeControl=true
+ValueStyle=None
+Visible=false
+starttdeRestore=true
+
+[Appearance]
+IconTheme=System

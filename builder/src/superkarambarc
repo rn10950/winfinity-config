@@ -1,0 +1,5 @@
+[TDENewStuff]
+ProvidersUrl[$e]=https://www.trinitydesktop.org/ocs/karamba-providers.xml
+
+[themes]
+UserAddedThemes[$e]=$HOME/xpq4/usr/share/icons/kde_windows2000/index.theme

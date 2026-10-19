@@ -1,0 +1,10 @@
+[Misc]
+External player[$e]=mplayer
+LastConfiguredApp=knotify
+Use external player=true
+Volume=100
+
+[StartProgress]
+Arts Init=false
+KNotify Init=true
+Use Arts=false

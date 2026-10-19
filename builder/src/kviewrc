@@ -1,0 +1,12 @@
+[General]
+ShowAlternativeShortcutConfig=false
+
+[KView General]
+Resize Mode=2
+
+[MainWindow Toolbar extraToolBar]
+IconText=IconOnly
+Index=1
+
+[MainWindow Toolbar mainToolBar]
+Index=0

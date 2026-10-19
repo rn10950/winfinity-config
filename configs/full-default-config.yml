@@ -1,0 +1,2888 @@
+clock_panelapplet_rc:
+  Analog:
+    Antialias: '2'
+    Background_Color: invalid
+    Foreground_Color: 220,220,220
+    LCD_Style: 'false'
+    Shadow_Color: 255,255,255
+    Show_Seconds: 'false'
+  Calendar:
+    Size: 280,200
+  Date:
+    Background_Color: invalid
+    Foreground_Color: 220,220,220
+  Digital:
+    Background_Color: invalid
+    Foreground_Color: 195,195,195
+    Shadow_Color: 88,88,88
+  Fuzzy:
+    Background_Color: invalid
+    Foreground_Color: 228,228,228
+    Show_Date: 'false'
+  General:
+    Type: Plain
+  Plain:
+    Background_Color: 212,208,200
+    Font: Microsoft Sans Serif,8,-1,5,50,0,0,0,0,0
+    Show_Date: 'false'
+dirfilterrc:
+  General:
+    ShowCount: 'false'
+    UseMultipleFilters: 'true'
+k3brc:
+  General Options:
+    Last system check version: 1.0.5
+    check system config: 'true'
+  TipOfDay:
+    TipLastShown: 2019,7,20,10,38,51
+kcmdisplayrc:
+  $Version:
+    update_info: kcmdisplayrc.upd:trinity
+  X11:
+    exportKDEColors: 'true'
+kcmfonts:
+  General:
+    dontChangeAASettings: 'false'
+    forceFontDPI: '96'
+    forceFontDPIEnable: 'true'
+kcminputrc:
+  Mouse:
+    Acceleration: '2'
+    MouseButtonMapping: RightHanded
+    ReverseScrollPolarity: 'false'
+    Threshold: '4'
+    cursorTheme: wincursors-classic
+kcmthememanagerrc:
+  General:
+    CurrentTheme: My Theme
+kcontroleditrc:
+  General:
+    SplitterSizes: 240,239
+kcontrolrc:
+  Colors:
+    CurrentPalette: ''
+  General:
+    InitialHeight 1024: '568'
+    InitialHeight 1200: '568'
+    InitialHeight 1216: '680'
+    InitialWidth 1280: '752'
+    InitialWidth 1600: '1237'
+    InitialWidth 3520: '752'
+    SplitterSizes: 316,432
+  HTML Settings:
+    AutomaticDetectionLanguage: '0'
+  Index:
+    IconSize: Medium
+    ViewMode: Tree
+  KFileDialog Settings:
+    Recent Files[$e]: ''
+kdeglobals:
+  DesktopIcons:
+    ActiveColor: invalid
+    ActiveColor2: invalid
+    ActiveEffect: none
+    ActiveSemiTransparent: 'false'
+    ActiveValue: '32'
+    Animated: 'false'
+    DefaultColor: invalid
+    DefaultColor2: invalid
+    DefaultEffect: none
+    DefaultSemiTransparent: 'false'
+    DefaultValue: '32'
+    DisabledColor: invalid
+    DisabledColor2: invalid
+    DisabledEffect: togray
+    DisabledSemiTransparent: 'false'
+    DisabledValue: '1'
+    DoublePixels: 'false'
+    Size: '32'
+  DirSelect Dialog:
+    DirSelectDialog Size: 1482,1110
+    History Items[$e]: file://$HOME/font,media:/sda5,file:///
+  General:
+    XftAntialias: 'false'
+    XftHintStyle: hintfull
+    XftSubPixel: none
+    alternateBackground: 238,246,255
+    background: 195,195,195
+    buttonBackground: 195,195,195
+    buttonForeground: 0,0,0
+    desktopFont: Tahoma,8,-1,5,50,0,0,0,0,0
+    fixed: Monospace,8,-1,5,50,0,0,0,0,0
+    font: Microsoft Sans Serif,8,-1,5,50,0,0,0,0,0
+    foreground: 0,0,0
+    linkColor: 0,0,238
+    menuFont: Microsoft Sans Serif,8,-1,5,50,0,0,0,0,0
+    selectBackground: 0,0,128
+    selectForeground: 255,255,255
+    shadeSortColumn: 'true'
+    taskbarFont: Arial,8,-1,5,50,0,0,0,0,0
+    toolBarFont: Microsoft Sans Serif,8,-1,5,50,0,0,0,0,0
+    visitedLinkColor: 82,24,139
+    widgetStyle: asteroid
+    windowBackground: 255,255,255
+    windowForeground: 0,0,0
+  Global Shortcuts:
+    Activate Window Demanding Attention: none
+    Block Global Shortcuts: none
+    Defaults timestamp: Mar  5 201921:47:54
+    Desktop Screenshot: Print
+    Enable/Disable Clipboard Actions: none
+    Halt without Confirmation: none
+    Kill Window: Alt+Shift+K
+    Lock Session: Alt+Ctrl+Delete;Alt+Ctrl+L
+    Lock Session (Hotkey): default(XF86ScreenSaver)
+    Log Out: Alt+Ctrl+End
+    Log Out Without Confirmation: Alt+Ctrl+Shift+End
+    Manually Invoke Action on Current Clipboard: none
+    Mouse Emulation: none
+    Next Taskbar Entry: none
+    Popup Launch Menu: Ctrl+Escape;Super_L
+    Previous Taskbar Entry: none
+    Reboot without Confirmation: none
+    Run Command: default(Alt+F2)
+    Setup Window Shortcut: none
+    Show Klipper Popup-Menu: Alt+Ctrl+C
+    Show Taskmanager: Alt+Ctrl+M
+    Show Window List: Menu
+    Start Screen Saver: none
+    Switch One Desktop Down: none
+    Switch One Desktop Up: none
+    Switch One Desktop to the Left: none
+    Switch One Desktop to the Right: none
+    Switch User: none
+    Switch to Desktop 1: none
+    Switch to Desktop 10: none
+    Switch to Desktop 11: none
+    Switch to Desktop 12: none
+    Switch to Desktop 13: none
+    Switch to Desktop 14: none
+    Switch to Desktop 15: none
+    Switch to Desktop 16: none
+    Switch to Desktop 17: none
+    Switch to Desktop 18: none
+    Switch to Desktop 19: none
+    Switch to Desktop 2: none
+    Switch to Desktop 20: none
+    Switch to Desktop 3: none
+    Switch to Desktop 4: none
+    Switch to Desktop 5: none
+    Switch to Desktop 6: none
+    Switch to Desktop 7: none
+    Switch to Desktop 8: none
+    Switch to Desktop 9: none
+    Switch to Next Desktop: none
+    Switch to Next Keyboard Layout: default(Alt+Ctrl+K);Alt+Space
+    Switch to Next Screen: none
+    Switch to Previous Desktop: none
+    Switch to Screen 0: none
+    Switch to Screen 1: none
+    Switch to Screen 2: none
+    Switch to Screen 3: none
+    Switch to Screen 4: none
+    Switch to Screen 5: none
+    Switch to Screen 6: none
+    Switch to Screen 7: none
+    Toggle Showing Desktop: default(Alt+Ctrl+D)
+    Toggle Window Raise/Lower: none
+    Walk Through Desktop List: none
+    Walk Through Desktop List (Reverse): none
+    Walk Through Desktops: Alt+Ctrl+Tab
+    Walk Through Desktops (Reverse): Alt+Ctrl+Shift+Tab
+    Walk Through Windows: default(Alt+Tab)
+    Walk Through Windows (Reverse): default(Alt+Shift+Tab)
+    Walk Through Windows of Same Application: none
+    Walk Through Windows of Same Application (Reverse): none
+    Window Above Other Windows: none
+    Window Below Other Windows: none
+    Window Close: default(Alt+F4)
+    Window Fullscreen: none
+    Window Grow Horizontal: none
+    Window Grow Vertical: none
+    Window Lower: none
+    Window Maximize: Super_R
+    Window Maximize Horizontal: Alt+Ctrl+Shift+BracketLeft
+    Window Maximize Vertical: Alt+Ctrl+Shift+BracketRight
+    Window Minimize: Alt+Ctrl+Period
+    Window Move: none
+    Window No Border: none
+    Window On All Desktops: none
+    Window One Desktop Down: none
+    Window One Desktop Up: none
+    Window One Desktop to the Left: none
+    Window One Desktop to the Right: none
+    Window Operations Menu: Alt+Ctrl+Menu
+    Window Pack Down: none
+    Window Pack Left: Alt+Ctrl+BracketLeft
+    Window Pack Right: Alt+Ctrl+BracketRight
+    Window Pack Up: none
+    Window Raise: none
+    Window Resize: none
+    Window Screenshot: default(Alt+Print)
+    Window Shade: none
+    Window Shrink Horizontal: none
+    Window Shrink Vertical: none
+    Window to Desktop 1: none
+    Window to Desktop 10: none
+    Window to Desktop 11: none
+    Window to Desktop 12: none
+    Window to Desktop 13: none
+    Window to Desktop 14: none
+    Window to Desktop 15: none
+    Window to Desktop 16: none
+    Window to Desktop 17: none
+    Window to Desktop 18: none
+    Window to Desktop 19: none
+    Window to Desktop 2: none
+    Window to Desktop 20: none
+    Window to Desktop 3: none
+    Window to Desktop 4: none
+    Window to Desktop 5: none
+    Window to Desktop 6: none
+    Window to Desktop 7: none
+    Window to Desktop 8: none
+    Window to Desktop 9: none
+    Window to Next Desktop: none
+    Window to Next Screen: none
+    Window to Previous Desktop: none
+    Window to Screen 0: none
+    Window to Screen 1: none
+    Window to Screen 2: none
+    Window to Screen 3: none
+    Window to Screen 4: none
+    Window to Screen 5: none
+    Window to Screen 6: none
+    Window to Screen 7: none
+  Icons:
+    Theme: Winfinity-Classic
+  KDE:
+    AutoSelectDelay: '-1'
+    ChangeCursor: 'false'
+    DoubleClickInterval: '400'
+    EffectAnimateCombo: 'false'
+    EffectAnimateMenu: 'false'
+    EffectAnimateTooltip: 'false'
+    EffectFadeMenu: 'false'
+    EffectFadeTooltip: 'false'
+    EffectNoTooltip: 'false'
+    EffectsEnabled: 'false'
+    IconUseRoundedRect: 'false'
+    InsertTearOffHandle: '0'
+    OpaqueResize: 'false'
+    ShowDeleteCommand: 'false'
+    ShowIconsOnPushButtons: 'false'
+    ShowKonqIconActivationEffect: 'false'
+    SingleClick: 'false'
+    StartDragDist: '4'
+    StartDragTime: '500'
+    VisualActivate: '1'
+    WheelScrollLines: '3'
+    colorScheme: Redmond Classic.kcsrc
+    contrast: '7'
+    macStyle: 'false'
+  KFileDialog Settings:
+    Automatically select filename extension: 'true'
+    Height 1024: '217'
+    Height 1200: '688'
+    LocationCombo Completionmode: '5'
+    PathCombo Completionmode: '5'
+    Recent URLs[$e]: ''
+    Separate Directories: 'false'
+    Show Bookmarks: 'false'
+    Show Preview: 'false'
+    Show Speedbar: 'true'
+    Show hidden files: 'false'
+    Sort by: Date
+    Sort case insensitively: 'true'
+    Sort directories first: 'true'
+    Sort reversed: 'false'
+    View Style: Simple
+    Width 1280: '668'
+    Width 1600: '1131'
+  KKeyDialog Settings:
+    Dialog Size: 418,928
+  Keyboard:
+    Gestures: 'false'
+  Locale:
+    Country: us
+    Language: en_US
+    TimeFormat: '%l:%M:%S %p'
+  MainToolbarIcons:
+    ActiveColor: 169,156,255
+    ActiveColor2: 0,0,0
+    ActiveEffect: none
+    ActiveSemiTransparent: 'false'
+    ActiveValue: '1'
+    Animated: 'false'
+    DefaultColor: 144,128,248
+    DefaultColor2: 0,0,0
+    DefaultEffect: none
+    DefaultSemiTransparent: 'false'
+    DefaultValue: '1'
+    DisabledColor: 34,202,0
+    DisabledColor2: 0,0,0
+    DisabledEffect: togray
+    DisabledSemiTransparent: 'true'
+    DisabledValue: '1'
+    DoublePixels: 'false'
+    Size: '22'
+  PanelIcons:
+    ActiveColor: invalid
+    ActiveColor2: invalid
+    ActiveEffect: none
+    ActiveSemiTransparent: 'false'
+    ActiveValue: '0'
+    Animated: 'false'
+    DefaultColor: 144,128,248
+    DefaultColor2: 0,0,0
+    DefaultEffect: none
+    DefaultSemiTransparent: 'false'
+    DefaultValue: '1'
+    DisabledColor: 34,202,0
+    DisabledColor2: 0,0,0
+    DisabledEffect: none
+    DisabledSemiTransparent: 'false'
+    DisabledValue: '1'
+    DoublePixels: 'false'
+    Size: '32'
+  Paths:
+    Trash[$e]: $HOME/Desktop/Trash/
+    Desktop[$e]: $HOME/Desktop/
+    Documents[$e]: $HOME/Documents/
+    Pictures[$e]: $HOME/Pictures/
+    Videos[$e]: $HOME/Videos/
+    Music[$e]: $HOME/Music/
+    Downloads[$e]: $HOME/Downloads/
+  PreviewSettings:
+    BoostSize: 'false'
+    MaximumSize: '10485760'
+    UseFileThumbnails: 'true'
+    applications: 'false'
+    ar: 'false'
+    audiocd: 'false'
+    camera: 'true'
+    file: 'false'
+    fish: 'false'
+    floppy: 'false'
+    fonts: 'false'
+    ftp: 'false'
+    home: 'false'
+    imap: 'false'
+    imaps: 'false'
+    invitation: 'false'
+    iso: 'false'
+    lan: 'false'
+    ldap: 'false'
+    ldaps: 'false'
+    mac: 'false'
+    man: 'false'
+    mbox: 'false'
+    media: 'true'
+    nfs: 'false'
+    nntp: 'false'
+    nntps: 'false'
+    nxfish: 'false'
+    pop3: 'false'
+    pop3s: 'false'
+    print: 'false'
+    printdb: 'false'
+    programs: 'false'
+    remote: 'false'
+    rlan: 'false'
+    settings: 'false'
+    sftp: 'false'
+    sieve: 'false'
+    smb: 'false'
+    smtp: 'false'
+    smtps: 'false'
+    system: 'false'
+    tar: 'false'
+    trash: 'false'
+    webdav: 'false'
+    webdavs: 'false'
+    zeroconf: 'false'
+    zip: 'false'
+  R14 XDG Updates:
+    Updated: 'true'
+    Version: '201811010'
+  RecentDocuments:
+    MaxEntries: '10'
+  Shortcuts:
+    AddBookmark: Ctrl+D
+    Back: Alt+Left
+    Close: Ctrl+F4;Ctrl+W
+    Forward: Alt+Right
+    Home: Ctrl+Home
+    PopupMenuContext: F10
+    Quit: none
+    Reload: F5
+  SmallIcons:
+    ActiveColor: 169,156,255
+    ActiveColor2: 0,0,0
+    ActiveEffect: none
+    ActiveSemiTransparent: 'false'
+    ActiveValue: '1'
+    Animated: 'false'
+    DefaultColor: 144,128,248
+    DefaultColor2: 0,0,0
+    DefaultEffect: none
+    DefaultSemiTransparent: 'false'
+    DefaultValue: '1'
+    DisabledColor: 34,202,0
+    DisabledColor2: 0,0,0
+    DisabledEffect: togray
+    DisabledSemiTransparent: 'true'
+    DisabledValue: '1'
+    DoublePixels: 'false'
+    Size: '16'
+  Toolbar style:
+    Highlighting: 'true'
+    IconText: IconOnly
+    TransparentMoving: 'true'
+  ToolbarIcons:
+    ActiveColor: 169,156,255
+    ActiveColor2: 0,0,0
+    ActiveEffect: none
+    ActiveSemiTransparent: 'false'
+    ActiveValue: '1'
+    Animated: 'false'
+    DefaultColor: 144,128,248
+    DefaultColor2: 0,0,0
+    DefaultEffect: none
+    DefaultSemiTransparent: 'false'
+    DefaultValue: '1'
+    DisabledColor: 34,202,0
+    DisabledColor2: 0,0,0
+    DisabledEffect: togray
+    DisabledSemiTransparent: 'true'
+    DisabledValue: '1'
+    DoublePixels: 'false'
+    Size: '22'
+  WM:
+    activeBackground: 0,0,128
+    activeBlend: 16,132,208
+    activeFont: WinfinityTitle,8,-1,5,50,0,0,0,0,0
+    activeForeground: 255,255,255
+    activeTitleBtnBg: 195,195,195
+    alternateBackground: 240,240,240
+    frame: 195,195,195
+    handle: 195,195,195
+    inactiveBackground: 156,156,156
+    inactiveBlend: 195,195,195
+    inactiveForeground: 214,214,214
+    inactiveFrame: 195,195,195
+    inactiveHandle: 195,195,195
+    inactiveTitleBtnBg: 195,195,195
+kdesktoprc:
+  Background Common:
+    CacheSize: '2048'
+    CommonDesktop: 'true'
+    CommonScreen: 'true'
+    DeskNum: '0'
+    Dock: 'true'
+    DrawBackgroundPerScreen_0: 'false'
+    DrawBackgroundPerScreen_1: 'false'
+    DrawBackgroundPerScreen_2: 'false'
+    DrawBackgroundPerScreen_3: 'false'
+    Export: 'false'
+    LimitCache: 'false'
+  Colors:
+    CurrentPalette: ''
+  Desktop Icons:
+    Preview: ''
+    ShowHidden: 'false'
+  Desktop0:
+    BackgroundMode: Flat
+    BlendBalance: '100'
+    BlendMode: NoBlending
+    ChangeInterval: '60'
+    Color1: 0,128,128
+    Color2: 0,0,0
+    CrossFadeBg: 'false'
+    CurrentWallpaperName: ''
+    LastChange: '0'
+    MinOptimizationDepth: '1'
+    MultiWallpaperMode: NoMulti
+    Pattern[$e]: ''
+    Program: ''
+    ReverseBlending: 'false'
+    UseSHM: 'false'
+    WallpaperList: ''
+    WallpaperMode: NoWallpaper
+    Wallpaper[$e]: /opt/trinity/share/wallpapers/
+  FMSettings:
+    ItemTextBackground: invalid
+    NormalTextColor: 255,255,255
+    ShadowEnabled: 'false'
+    ShowFileTips: 'true'
+    StandardFont: Microsoft Sans Serif,8,-1,5,50,0,0,0,0,0
+    TextHeight: '2'
+    TextWidth: '80'
+    UnderlineLinks: 'false'
+  General:
+    AutoLineUpIcons: 'true'
+    Enabled: 'true'
+    SetVRoot: 'false'
+  KFileDialog Settings:
+    Automatic Preview: 'true'
+    Autoplay sounds: 'true'
+  Media:
+    FreeSpaceDisplayEnabled: 'true'
+    enabled: 'false'
+    exclude: media/builtin-printers,media/builtin-webbrowser
+  Menubar:
+    ShowMenubar: 'false'
+  MiniCli:
+    History[$e]: ''
+    MiniCLIFilesystemAutoComplete: 'true'
+    MiniCLIHistoryAndFilesystemAutoComplete: 'true'
+    MiniCLISystempathAutoComplete: 'true'
+    TerminalApps[$e]: ls,screenfetch
+  Mouse Buttons:
+    Left: ''
+    Middle: WindowListMenu
+    Right: DesktopMenu
+    WheelSwitchesWorkspace: 'false'
+  Open-with settings:
+    CompletionMode: '5'
+    History: kwrite,kate
+  ScreenSaver:
+    DelaySaverStart: 'false'
+    Enabled: 'true'
+    HideActiveWindowsFromSaver: 'true'
+    HideCancelButton: 'false'
+    Lock: 'true'
+    LockGrace: '60000'
+    Saver: KClock.desktop
+    Timeout: '1200'
+    UseTDESAK: 'false'
+    UseUnmanagedLockWindows: 'false'
+  Version:
+    KDEVersionMajor: '14'
+    KDEVersionRelease: '6'
+khotkeys_update:
+  $Version:
+    update_info: khotkeys_32b1_update.upd:trinity2b1,konqueror_gestures_trinity21_update.upd:trinity21,khotkeys_printscreen.upd:printscreen
+khotkeysrc:
+  Data:
+    DataCount: '3'
+  Data_1:
+    Comment: This group contains various examples demonstrating most of the features
+      of KHotkeys. (Note that this group and all its actions are disabled by default.)
+    DataCount: '8'
+    Enabled: 'false'
+    Name: Examples
+    SystemGroup: '0'
+    Type: ACTION_DATA_GROUP
+  Data_1Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_1_1:
+    Comment: After pressing Ctrl+Alt+I, the KSIRC window will be activated, if it
+      exists. Simple.
+    Enabled: 'false'
+    Name: Activate KSIRC Window
+    Type: ACTIVATE_WINDOW_SHORTCUT_ACTION_DATA
+  Data_1_1Actions:
+    ActionsCount: '1'
+  Data_1_1Actions0:
+    Type: ACTIVATE_WINDOW
+  Data_1_1Actions0Window:
+    Comment: KSIRC window
+    WindowsCount: '1'
+  Data_1_1Actions0Window0:
+    Class: ksirc
+    ClassType: '1'
+    Comment: KSIRC
+    Role: ''
+    RoleType: '0'
+    Title: ''
+    TitleType: '0'
+    Type: SIMPLE
+    WindowTypes: '33'
+  Data_1_1Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_1_1Triggers:
+    Comment: Simple_action
+    TriggersCount: '1'
+  Data_1_1Triggers0:
+    Key: Alt+Ctrl+I
+    Type: SHORTCUT
+  Data_1_2:
+    Comment: 'After pressing Alt+Ctrl+H, ''Hello'' input will be simulated just like
+      if you typed it. Especially useful if you''re lazy to type things like ''unsigned''.
+      Every keypress in the input is separated by a colon '':'' . Note that the keypresses
+      mean really keypresses, so you have to write what you''d really press on the
+      keyboard. In the table below, left column shows the input and the right column
+      shows what to type.\n\n"enter" (i.e. new line)                Enter or Return\na
+      (i.e. small a)                          A\nA (i.e. capital a)                       Shift+A\n:
+      (colon)                                  Shift+;\n'' ''  (space)                              Space'
+    Enabled: 'false'
+    Name: Type 'Hello'
+    Type: KEYBOARD_INPUT_SHORTCUT_ACTION_DATA
+  Data_1_2Actions:
+    ActionsCount: '1'
+  Data_1_2Actions0:
+    ActiveWindow: 'false'
+    Input: Shift+H:E:L:L:O\n
+    IsDestinationWindow: 'false'
+    Type: KEYBOARD_INPUT
+  Data_1_2Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_1_2Triggers:
+    Comment: Simple_action
+    TriggersCount: '1'
+  Data_1_2Triggers0:
+    Key: Alt+Ctrl+H
+    Type: SHORTCUT
+  Data_1_3:
+    Comment: This action runs Konsole, after pressing Ctrl+Alt+T.
+    Enabled: 'false'
+    Name: Run Konsole
+    Type: COMMAND_URL_SHORTCUT_ACTION_DATA
+  Data_1_3Actions:
+    ActionsCount: '1'
+  Data_1_3Actions0:
+    CommandURL: konsole
+    Type: COMMAND_URL
+  Data_1_3Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_1_3Triggers:
+    Comment: Simple_action
+    TriggersCount: '1'
+  Data_1_3Triggers0:
+    Key: Alt+Ctrl+T
+    Type: SHORTCUT
+  Data_1_4:
+    Comment: 'Read the comment on action "Type ''Hello''" first.\n\nQt Designer uses
+      Ctrl+F4 for closing windows (maybe because MS Windows does it that way *shrug*).
+      But Ctrl+F4 in TDE stands for going to virtual desktop 4, so it doesn''t work
+      in Qt Designer, and also, Qt Designer doesn''t use TDE''s standard Ctrl+W for
+      closing the window.\n\nBut the problem can be solved by remaping Ctrl+W to Ctrl+F4
+      when the active window is Qt Designer. When Qt Designer is active, every time
+      Ctrl+W is pressed, Ctrl+F4 will be sent to Qt Designer instead. In other applications,
+      Ctrl+W remains working the usual way of course.\n\nWe now need to specify three
+      things: A new shortcut trigger on ''Ctrl+W'', a new keyboard input action sending
+      Ctrl+F4, and a new condition that the active window is Qt Designer.\nQt Designer
+      seems to always have title ''Qt Designer by Trolltech'', so the condition will
+      check for the active window having that title.'
+    Enabled: 'false'
+    Name: Remap Ctrl+W to Ctrl+F4 in Qt Designer
+    Type: GENERIC_ACTION_DATA
+  Data_1_4Actions:
+    ActionsCount: '1'
+  Data_1_4Actions0:
+    ActiveWindow: 'false'
+    Input: Ctrl+F4
+    IsDestinationWindow: 'false'
+    Type: KEYBOARD_INPUT
+  Data_1_4Conditions:
+    Comment: ''
+    ConditionsCount: '1'
+  Data_1_4Conditions0:
+    Type: ACTIVE_WINDOW
+  Data_1_4Conditions0Window:
+    Comment: Qt Designer
+    WindowsCount: '1'
+  Data_1_4Conditions0Window0:
+    Class: ''
+    ClassType: '0'
+    Comment: ''
+    Role: ''
+    RoleType: '0'
+    Title: Qt Designer by Trolltech
+    TitleType: '2'
+    Type: SIMPLE
+    WindowTypes: '33'
+  Data_1_4Triggers:
+    Comment: ''
+    TriggersCount: '1'
+  Data_1_4Triggers0:
+    Key: Ctrl+W
+    Type: SHORTCUT
+  Data_1_5:
+    Comment: By pressing Alt+Ctrl+W a DCOP call will be performed that will show the
+      minicli. You can use any kind of DCOP call, just like using the command line
+      'dcop' tool.
+    Enabled: 'false'
+    Name: Perform DCOP call 'kdesktop KDesktopIface popupExecuteCommand()'
+    Type: DCOP_SHORTCUT_ACTION_DATA
+  Data_1_5Actions:
+    ActionsCount: '1'
+  Data_1_5Actions0:
+    Arguments: ''
+    Call: popupExecuteCommand
+    RemoteApp: kdesktop
+    RemoteObj: KDesktopIface
+    Type: DCOP
+  Data_1_5Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_1_5Triggers:
+    Comment: Simple_action
+    TriggersCount: '1'
+  Data_1_5Triggers0:
+    Key: Alt+Ctrl+W
+    Type: SHORTCUT
+  Data_1_6:
+    Comment: Read the comment on action "Type 'Hello'" first.\n\nJust like the "Type
+      'Hello'" action, this one simulates a keyboard input, specifically, after pressing
+      Ctrl+Alt+B, it sends B to XMMS (B in XMMS jumps to the next song). The 'Send
+      to specific window' checkbox is checked and a window with its class containing
+      'XMMS_Player' is specified; this will make the input always be sent to this
+      window. This way, you can control XMMS even if it's e.g. on a different virtual
+      desktop.\n\n(Run 'xprop' and click on the XMMS window and search for WM_CLASS
+      to see 'XMMS_Player').
+    Enabled: 'false'
+    Name: Next in XMMS
+    Type: KEYBOARD_INPUT_SHORTCUT_ACTION_DATA
+  Data_1_6Actions:
+    ActionsCount: '1'
+  Data_1_6Actions0:
+    ActiveWindow: 'false'
+    Input: B
+    IsDestinationWindow: 'true'
+    Type: KEYBOARD_INPUT
+  Data_1_6Actions0DestinationWindow:
+    Comment: XMMS window
+    WindowsCount: '1'
+  Data_1_6Actions0DestinationWindow0:
+    Class: XMMS_Player
+    ClassType: '1'
+    Comment: XMMS Player window
+    Role: ''
+    RoleType: '0'
+    Title: ''
+    TitleType: '0'
+    Type: SIMPLE
+    WindowTypes: '33'
+  Data_1_6Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_1_6Triggers:
+    Comment: Simple_action
+    TriggersCount: '1'
+  Data_1_6Triggers0:
+    Key: Alt+Ctrl+B
+    Type: SHORTCUT
+  Data_1_7:
+    Comment: Ok, Konqi in TDE has tabs, and now you can also have gestures. No need
+      to use other browsers >;).\n\nJust press the middle mouse button and start drawing
+      one of the gestures, and after you're finished, release the mouse button. If
+      you only need to paste the selection, it still works, simply only click the
+      middle mouse button. (You can change the mouse button to use in the global settings).\n\nRight
+      now, there are these gestures available:\nmove right and back left - Forward
+      (ALt+Right)\nmove left and back right - Back (Alt+Left)\nmove up and back down  -
+      Up (Alt+Up)\ncircle anticlockwise - Reload (F5)\n (As soon as I find out which
+      ones are in Opera or Mozilla, I'll add more and make sure they are the same.
+      Or if you do it yourself, feel free to help me and send me your khotkeysrc.)\n\nThe
+      gestures shapes (some of the dialogs are from KGesture, thanks to Mike Pilone)
+      can be simply entered by performing them in the configuration dialog. You can
+      also look at your numeric pad to help you, gestures are recognized like a 3x3
+      grid of fields, numbered 1 to 9.\n\nNote that you must perform exactly the gesture
+      to trigger the action. Because of this, it's possible to enter more gestures
+      for the action. You should try to avoid complicated gestures where you change
+      the direction of mouse moving more than once (i.e. do e.g. 45654 or 74123 as
+      they are simple to perform but e.g. 1236987 may be already quite difficult).\n\nThe
+      condition for all gestures are defined in this group. All these gestures are
+      active only if the active window is Konqueror (class contains 'konqueror').
+    DataCount: '4'
+    Enabled: 'false'
+    Name: Konqi Gestures
+    SystemGroup: '0'
+    Type: ACTION_DATA_GROUP
+  Data_1_7Conditions:
+    Comment: Konqueror window
+    ConditionsCount: '1'
+  Data_1_7Conditions0:
+    Type: ACTIVE_WINDOW
+  Data_1_7Conditions0Window:
+    Comment: Konqueror
+    WindowsCount: '1'
+  Data_1_7Conditions0Window0:
+    Class: konqueror
+    ClassType: '1'
+    Comment: Konqueror
+    Role: ''
+    RoleType: '0'
+    Title: ''
+    TitleType: '0'
+    Type: SIMPLE
+    WindowTypes: '33'
+  Data_1_7_1:
+    Comment: ''
+    Enabled: 'false'
+    Name: Back
+    Type: KEYBOARD_INPUT_GESTURE_ACTION_DATA
+  Data_1_7_1Actions:
+    ActionsCount: '1'
+  Data_1_7_1Actions0:
+    ActiveWindow: 'false'
+    Input: Alt+Left
+    IsDestinationWindow: 'false'
+    Type: KEYBOARD_INPUT
+  Data_1_7_1Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_1_7_1Triggers:
+    Comment: Gesture_triggers
+    TriggersCount: '3'
+  Data_1_7_1Triggers0:
+    Gesture: '65456'
+    Type: GESTURE
+  Data_1_7_1Triggers1:
+    Gesture: '5456'
+    Type: GESTURE
+  Data_1_7_1Triggers2:
+    Gesture: '6545'
+    Type: GESTURE
+  Data_1_7_2:
+    Comment: ''
+    Enabled: 'false'
+    Name: Forward
+    Type: KEYBOARD_INPUT_GESTURE_ACTION_DATA
+  Data_1_7_2Actions:
+    ActionsCount: '1'
+  Data_1_7_2Actions0:
+    ActiveWindow: 'false'
+    Input: Alt+Right
+    IsDestinationWindow: 'false'
+    Type: KEYBOARD_INPUT
+  Data_1_7_2Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_1_7_2Triggers:
+    Comment: Gesture_triggers
+    TriggersCount: '3'
+  Data_1_7_2Triggers0:
+    Gesture: '45654'
+    Type: GESTURE
+  Data_1_7_2Triggers1:
+    Gesture: '5654'
+    Type: GESTURE
+  Data_1_7_2Triggers2:
+    Gesture: '4565'
+    Type: GESTURE
+  Data_1_7_3:
+    Comment: ''
+    Enabled: 'false'
+    Name: Up
+    Type: KEYBOARD_INPUT_GESTURE_ACTION_DATA
+  Data_1_7_3Actions:
+    ActionsCount: '1'
+  Data_1_7_3Actions0:
+    ActiveWindow: 'false'
+    Input: Alt+Up
+    IsDestinationWindow: 'false'
+    Type: KEYBOARD_INPUT
+  Data_1_7_3Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_1_7_3Triggers:
+    Comment: Gesture_triggers
+    TriggersCount: '3'
+  Data_1_7_3Triggers0:
+    Gesture: '25852'
+    Type: GESTURE
+  Data_1_7_3Triggers1:
+    Gesture: '2585'
+    Type: GESTURE
+  Data_1_7_3Triggers2:
+    Gesture: '5852'
+    Type: GESTURE
+  Data_1_7_4:
+    Comment: ''
+    Enabled: 'false'
+    Name: Reload
+    Type: KEYBOARD_INPUT_GESTURE_ACTION_DATA
+  Data_1_7_4Actions:
+    ActionsCount: '1'
+  Data_1_7_4Actions0:
+    ActiveWindow: 'false'
+    Input: F5
+    IsDestinationWindow: 'false'
+    Type: KEYBOARD_INPUT
+  Data_1_7_4Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_1_7_4Triggers:
+    Comment: Gesture_triggers
+    TriggersCount: '3'
+  Data_1_7_4Triggers0:
+    Gesture: '123698741'
+    Type: GESTURE
+  Data_1_7_4Triggers1:
+    Gesture: '1236987412'
+    Type: GESTURE
+  Data_1_7_4Triggers2:
+    Gesture: '4123698741'
+    Type: GESTURE
+  Data_1_8:
+    Comment: After pressing Win+E (Tux+E), WWW browser will be launched and it will
+      open http://www.trinitydesktop.org . You may run all kind of commands you can
+      run in minicli (Alt+F2).
+    Enabled: 'false'
+    Name: Go to TDE Website
+    Type: COMMAND_URL_SHORTCUT_ACTION_DATA
+  Data_1_8Actions:
+    ActionsCount: '1'
+  Data_1_8Actions0:
+    CommandURL: http://www.trinitydesktop.org
+    Type: COMMAND_URL
+  Data_1_8Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_1_8Triggers:
+    Comment: Simple_action
+    TriggersCount: '1'
+  Data_1_8Triggers0:
+    Key: Win+E
+    Type: SHORTCUT
+  Data_2:
+    Comment: Basic Konqueror gestures.
+    DataCount: '14'
+    Enabled: 'true'
+    Name: Konqueror Gestures
+    SystemGroup: '0'
+    Type: ACTION_DATA_GROUP
+  Data_2Conditions:
+    Comment: Konqueror window
+    ConditionsCount: '1'
+  Data_2Conditions0:
+    Type: ACTIVE_WINDOW
+  Data_2Conditions0Window:
+    Comment: Konqueror
+    WindowsCount: '1'
+  Data_2Conditions0Window0:
+    Class: ^konqueror\s
+    ClassType: '3'
+    Comment: Konqueror
+    Role: konqueror-mainwindow#1
+    RoleType: '0'
+    Title: file:/ - Konqueror
+    TitleType: '0'
+    Type: SIMPLE
+    WindowTypes: '1'
+  Data_2_1:
+    Comment: Press, move left, release.
+    Enabled: 'true'
+    Name: Back
+    Type: KEYBOARD_INPUT_GESTURE_ACTION_DATA
+  Data_2_10:
+    Comment: 'Opera-style: Press, move up, release.\nNOTE: Conflicts with ''New Tab'',
+      and as such is disabled by default.'
+    Enabled: 'false'
+    Name: Stop Loading
+    Type: KEYBOARD_INPUT_GESTURE_ACTION_DATA
+  Data_2_10Actions:
+    ActionsCount: '1'
+  Data_2_10Actions0:
+    ActiveWindow: 'false'
+    Input: Escape\n
+    IsDestinationWindow: 'false'
+    Type: KEYBOARD_INPUT
+  Data_2_10Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_2_10Triggers:
+    Comment: Gesture_triggers
+    TriggersCount: '1'
+  Data_2_10Triggers0:
+    Gesture: '258'
+    Type: GESTURE
+  Data_2_11:
+    Comment: 'Going up in URL/directory structure.\nMozilla-style: Press, move up,
+      move left, move up, release.'
+    Enabled: 'true'
+    Name: Up
+    Type: KEYBOARD_INPUT_GESTURE_ACTION_DATA
+  Data_2_11Actions:
+    ActionsCount: '1'
+  Data_2_11Actions0:
+    ActiveWindow: 'false'
+    Input: Alt+Up
+    IsDestinationWindow: 'false'
+    Type: KEYBOARD_INPUT
+  Data_2_11Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_2_11Triggers:
+    Comment: Gesture_triggers
+    TriggersCount: '1'
+  Data_2_11Triggers0:
+    Gesture: '36547'
+    Type: GESTURE
+  Data_2_12:
+    Comment: 'Going up in URL/directory structure.\nOpera-style: Press, move up, move
+      left, move up, release.\nNOTE: Conflicts with  "Activate Previous Tab", and
+      as such is disabled by default.'
+    Enabled: 'false'
+    Name: 'Up #2'
+    Type: KEYBOARD_INPUT_GESTURE_ACTION_DATA
+  Data_2_12Actions:
+    ActionsCount: '1'
+  Data_2_12Actions0:
+    ActiveWindow: 'false'
+    Input: Alt+Up\n
+    IsDestinationWindow: 'false'
+    Type: KEYBOARD_INPUT
+  Data_2_12Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_2_12Triggers:
+    Comment: Gesture_triggers
+    TriggersCount: '1'
+  Data_2_12Triggers0:
+    Gesture: '36987'
+    Type: GESTURE
+  Data_2_13:
+    Comment: Press, move up, move right, release.
+    Enabled: 'true'
+    Name: Activate Next Tab
+    Type: KEYBOARD_INPUT_GESTURE_ACTION_DATA
+  Data_2_13Actions:
+    ActionsCount: '1'
+  Data_2_13Actions0:
+    ActiveWindow: 'false'
+    Input: Ctrl+.\n
+    IsDestinationWindow: 'false'
+    Type: KEYBOARD_INPUT
+  Data_2_13Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_2_13Triggers:
+    Comment: Gesture_triggers
+    TriggersCount: '1'
+  Data_2_13Triggers0:
+    Gesture: '14789'
+    Type: GESTURE
+  Data_2_14:
+    Comment: Press, move up, move left, release.
+    Enabled: 'true'
+    Name: Activate Previous Tab
+    Type: KEYBOARD_INPUT_GESTURE_ACTION_DATA
+  Data_2_14Actions:
+    ActionsCount: '1'
+  Data_2_14Actions0:
+    ActiveWindow: 'false'
+    Input: Ctrl+,
+    IsDestinationWindow: 'false'
+    Type: KEYBOARD_INPUT
+  Data_2_14Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_2_14Triggers:
+    Comment: Gesture_triggers
+    TriggersCount: '1'
+  Data_2_14Triggers0:
+    Gesture: '36987'
+    Type: GESTURE
+  Data_2_1Actions:
+    ActionsCount: '1'
+  Data_2_1Actions0:
+    ActiveWindow: 'false'
+    Input: Alt+Left
+    IsDestinationWindow: 'false'
+    Type: KEYBOARD_INPUT
+  Data_2_1Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_2_1Triggers:
+    Comment: Gesture_triggers
+    TriggersCount: '1'
+  Data_2_1Triggers0:
+    Gesture: '654'
+    Type: GESTURE
+  Data_2_2:
+    Comment: Press, move down, move up, move down, release.
+    Enabled: 'true'
+    Name: Duplicate Tab
+    Type: KEYBOARD_INPUT_GESTURE_ACTION_DATA
+  Data_2_2Actions:
+    ActionsCount: '1'
+  Data_2_2Actions0:
+    ActiveWindow: 'false'
+    Input: Ctrl+Shift+D\n
+    IsDestinationWindow: 'false'
+    Type: KEYBOARD_INPUT
+  Data_2_2Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_2_2Triggers:
+    Comment: Gesture_triggers
+    TriggersCount: '1'
+  Data_2_2Triggers0:
+    Gesture: '8525852'
+    Type: GESTURE
+  Data_2_3:
+    Comment: Press, move down, move up, release.
+    Enabled: 'true'
+    Name: Duplicate Window
+    Type: KEYBOARD_INPUT_GESTURE_ACTION_DATA
+  Data_2_3Actions:
+    ActionsCount: '1'
+  Data_2_3Actions0:
+    ActiveWindow: 'false'
+    Input: Ctrl+D\n
+    IsDestinationWindow: 'false'
+    Type: KEYBOARD_INPUT
+  Data_2_3Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_2_3Triggers:
+    Comment: Gesture_triggers
+    TriggersCount: '1'
+  Data_2_3Triggers0:
+    Gesture: '85258'
+    Type: GESTURE
+  Data_2_4:
+    Comment: Press, move right, release.
+    Enabled: 'true'
+    Name: Forward
+    Type: KEYBOARD_INPUT_GESTURE_ACTION_DATA
+  Data_2_4Actions:
+    ActionsCount: '1'
+  Data_2_4Actions0:
+    ActiveWindow: 'false'
+    Input: Alt+Right
+    IsDestinationWindow: 'false'
+    Type: KEYBOARD_INPUT
+  Data_2_4Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_2_4Triggers:
+    Comment: Gesture_triggers
+    TriggersCount: '1'
+  Data_2_4Triggers0:
+    Gesture: '456'
+    Type: GESTURE
+  Data_2_5:
+    Comment: Press, move down, move half up, move right, move down, release.\n(Drawing
+      a lowercase 'h'.)
+    Enabled: 'true'
+    Name: Home
+    Type: KEYBOARD_INPUT_GESTURE_ACTION_DATA
+  Data_2_5Actions:
+    ActionsCount: '1'
+  Data_2_5Actions0:
+    ActiveWindow: 'false'
+    Input: Ctrl+Home\n
+    IsDestinationWindow: 'false'
+    Type: KEYBOARD_INPUT
+  Data_2_5Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_2_5Triggers:
+    Comment: Gesture_triggers
+    TriggersCount: '2'
+  Data_2_5Triggers0:
+    Gesture: '741563'
+    Type: GESTURE
+  Data_2_5Triggers1:
+    Gesture: '7414563'
+    Type: GESTURE
+  Data_2_6:
+    Comment: 'Press, move right, move down, move right, release.\nMozilla-style: Press,
+      move down, move right, release.'
+    Enabled: 'true'
+    Name: Close Tab
+    Type: KEYBOARD_INPUT_GESTURE_ACTION_DATA
+  Data_2_6Actions:
+    ActionsCount: '1'
+  Data_2_6Actions0:
+    ActiveWindow: 'false'
+    Input: Ctrl+W\n
+    IsDestinationWindow: 'false'
+    Type: KEYBOARD_INPUT
+  Data_2_6Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_2_6Triggers:
+    Comment: Gesture_triggers
+    TriggersCount: '2'
+  Data_2_6Triggers0:
+    Gesture: '78523'
+    Type: GESTURE
+  Data_2_6Triggers1:
+    Gesture: '74123'
+    Type: GESTURE
+  Data_2_7:
+    Comment: 'Press, move up, release.\nConflicts with Opera-style ''Up #2'', which
+      is disabled by default.'
+    Enabled: 'true'
+    Name: New Tab
+    Type: KEYBOARD_INPUT_GESTURE_ACTION_DATA
+  Data_2_7Actions:
+    ActionsCount: '1'
+  Data_2_7Actions0:
+    ActiveWindow: 'false'
+    Input: Ctrl+Shift+N
+    IsDestinationWindow: 'false'
+    Type: KEYBOARD_INPUT
+  Data_2_7Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_2_7Triggers:
+    Comment: Gesture_triggers
+    TriggersCount: '1'
+  Data_2_7Triggers0:
+    Gesture: '258'
+    Type: GESTURE
+  Data_2_8:
+    Comment: Press, move down, release.
+    Enabled: 'true'
+    Name: New Window
+    Type: KEYBOARD_INPUT_GESTURE_ACTION_DATA
+  Data_2_8Actions:
+    ActionsCount: '1'
+  Data_2_8Actions0:
+    ActiveWindow: 'false'
+    Input: Ctrl+N\n
+    IsDestinationWindow: 'false'
+    Type: KEYBOARD_INPUT
+  Data_2_8Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_2_8Triggers:
+    Comment: Gesture_triggers
+    TriggersCount: '1'
+  Data_2_8Triggers0:
+    Gesture: '852'
+    Type: GESTURE
+  Data_2_9:
+    Comment: Press, move up, move down, release.
+    Enabled: 'true'
+    Name: Reload
+    Type: KEYBOARD_INPUT_GESTURE_ACTION_DATA
+  Data_2_9Actions:
+    ActionsCount: '1'
+  Data_2_9Actions0:
+    ActiveWindow: 'false'
+    Input: F5
+    IsDestinationWindow: 'false'
+    Type: KEYBOARD_INPUT
+  Data_2_9Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_2_9Triggers:
+    Comment: Gesture_triggers
+    TriggersCount: '1'
+  Data_2_9Triggers0:
+    Gesture: '25852'
+    Type: GESTURE
+  Data_3:
+    Comment: This group contains actions that are set up by default.
+    DataCount: '2'
+    Enabled: 'true'
+    Name: Preset Actions
+    SystemGroup: '0'
+    Type: ACTION_DATA_GROUP
+  Data_3Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_3_1:
+    Comment: Launches KSnapShot when PrintScrn is pressed.
+    Enabled: 'true'
+    Name: PrintScreen
+    Type: COMMAND_URL_SHORTCUT_ACTION_DATA
+  Data_3_1Actions:
+    ActionsCount: '1'
+  Data_3_1Actions0:
+    CommandURL: ksnapshot
+    Type: COMMAND_URL
+  Data_3_1Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_3_1Triggers:
+    Comment: Simple_action
+    TriggersCount: '1'
+  Data_3_1Triggers0:
+    Key: Print
+    Type: SHORTCUT
+  Data_3_2:
+    Comment: Launches KSnapShot in window capture mode when ALT+PrintScrn is pressed.\n
+    Enabled: 'true'
+    Name: PrintWindow
+    Type: COMMAND_URL_SHORTCUT_ACTION_DATA
+  Data_3_2Actions:
+    ActionsCount: '1'
+  Data_3_2Actions0:
+    CommandURL: ksnapshot -c
+    Type: COMMAND_URL
+  Data_3_2Conditions:
+    Comment: ''
+    ConditionsCount: '0'
+  Data_3_2Triggers:
+    Comment: Simple_action
+    TriggersCount: '1'
+  Data_3_2Triggers0:
+    Key: Alt+Print
+    Type: SHORTCUT
+  Gestures:
+    Disabled: 'true'
+    MouseButton: '2'
+    Timeout: '300'
+  GesturesExclude:
+    Comment: ''
+    WindowsCount: '0'
+  Main:
+    AlreadyImported: trinity2b1,konqueror_gestures_trinity21,printscreen
+    Autostart: 'true'
+    Disabled: 'false'
+    Version: '2'
+  Voice:
+    Shortcut: ''
+kickerrc:
+  AddAppletDialog Settings:
+    Height 1200: '667'
+    Width 1600: '990'
+  Applet_1:
+    ConfigFile[$e]: taskbar_panelapplet_rc
+    DesktopFile[$e]: taskbarapplet.desktop
+    FreeSpace2: '0.00916667'
+    WidthForHeightHint: '81'
+  Applet_2:
+    ConfigFile[$e]: systemtray_panelappletrc
+    DesktopFile[$e]: systemtrayapplet.desktop
+    FreeSpace2: '1'
+    WidthForHeightHint: '73'
+  Colors:
+    CurrentPalette: ''
+  General:
+    Applets2: KMenuButton_1,Applet_1,Applet_2
+    AutoHideDelay: '3'
+    AutoHidePanel: 'false'
+    AutoHideSwitch: 'false'
+    BackgroundHide: 'false'
+    BackgroundTheme[$e]: ''
+    BourbonMenuHeightDefault: '507'
+    BourbonMenuWidthDefault: '414'
+    CustomSize: '26'
+    ExpandSize: 'true'
+    FadeOutAppletHandles: 'true'
+    HideAnimation: 'false'
+    HideAnimationSpeed: '40'
+    HideAppletHandles: 'false'
+    HideButtonSize: '14'
+    IExist: 'true'
+    LegacyKMenu: 'true'
+    MenubarPanelBlurred: 'false'
+    MenubarPanelTransparent: 'false'
+    OpenOnHover: 'true'
+    Position: '3'
+    ShowDeepButtons: 'true'
+    ShowIconActivationEffect: 'false'
+    ShowLeftHideButton: 'false'
+    ShowRightHideButton: 'false'
+    Size: '4'
+    SizePercentage: '100'
+    TintColor: 176,173,166
+    TintValue: '33'
+    Transparent: 'false'
+    UnhideLocation: '0'
+    UntrustedApplets: ''
+    UntrustedExtensions: ''
+    UseBackgroundTheme: 'false'
+    UseResizeHandle: 'true'
+    XineramaHideSwitch: 'true'
+    XineramaScreen: '-1'
+    panelIconWidth: '48'
+  KMenu:
+    CustomIcon: kmenu
+    ShowText: 'true'
+    SideName: kside_NT.png
+    SideTileName: kside_tile_NT.png
+    Text: Start
+    UseSearchBar: 'false'
+  KMenuButton_1:
+    FreeSpace2: '0.00333333'
+  Main Panel:
+    ConfigFile[$e]: kickerrc
+    DesktopFile[$e]: childpanelextension.desktop
+    UserHidden: '0'
+  button_tiles:
+    EnableBrowserTiles: 'false'
+    EnableDesktopButtonTiles: 'false'
+    EnableKMenuTiles: 'false'
+    EnableURLTiles: 'false'
+    EnableWindowListTiles: 'false'
+  buttons:
+    EnableIconZoom: 'false'
+    EnableTileBackground: 'false'
+    Font: WinfinityTitle,8,-1,5,50,0,0,0,0,0
+  menus:
+    Extensions: ''
+    Favorites: ''
+    MenuEntryFormat: NameAndDescription
+    MenuEntryHeight: '32'
+    RecentAppsStat: ''
+    ShowMenuTitles: 'false'
+    UseBookmarks: 'false'
+    UseBrowser: 'false'
+klipperrc:
+  $Version:
+    update_info: klippershortcuts.upd:04112002,klipperrc.upd:25082001,klipperrc.upd:trinity.1
+  General:
+    AutoStart: 'false'
+    Synchronize: 'false'
+kmenueditrc:
+  General:
+    SplitterSizes: 603,601
+  MainWindow:
+    Height 1200: '861'
+    Width 1600: '1208'
+kmilodrc:
+  DefaultSkin:
+    Font: Sans,10,-1,5,75,0,0,0,0,0
+    ProgressFont: Sans,8,-1,5,75,0,0,0,0,0
+    Size: 80,30
+    paletteBackgroundColor: 100,100,100
+    paletteForegroundColor: 200,200,200
+kmixrc:
+  Appearance:
+    IconTheme: System
+knotify.eventsrc:
+  'Textcompletion: no match':
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '1'
+    soundfile[$e]: ''
+  'Textcompletion: partial match':
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '1'
+    soundfile[$e]: ''
+  'Textcompletion: rotation':
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '1'
+    soundfile[$e]: ''
+  'Trash: emptied':
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '1'
+    soundfile[$e]: /opt/trinity/share/sounds/recycle.mp3
+  cancellogout:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '16'
+    soundfile[$e]: ''
+  cannotopenfile:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  catastrophe:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '2'
+    soundfile[$e]: ''
+  exittde:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '1'
+    soundfile[$e]: /opt/trinity/share/sounds/logoff.mp3
+  fatalerror:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '2'
+    soundfile[$e]: ''
+  messageCritical:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '65'
+    soundfile[$e]: /opt/trinity/share/sounds/chord.mp3
+  messageInformation:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '65'
+    soundfile[$e]: /opt/trinity/share/sounds/ding.mp3
+  messageWarning:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '65'
+    soundfile[$e]: /opt/trinity/share/sounds/chord.mp3
+  messageboxQuestion:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '64'
+    soundfile[$e]: KDE_Vox_Ahem.ogg
+  notification:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '1'
+    soundfile[$e]: /opt/trinity/share/sounds/notify.mp3
+  printerror:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '2'
+    soundfile[$e]: ''
+  starttde:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '1'
+    soundfile[$e]: /opt/trinity/share/sounds/The Microsoft Sound.mp3
+  warning:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '2'
+    soundfile[$e]: ''
+knotifyrc:
+  Misc:
+    External player[$e]: mplayer
+    LastConfiguredApp: knotify
+    Use external player: 'true'
+    Volume: '100'
+  StartProgress:
+    Arts Init: 'false'
+    KNotify Init: 'true'
+    Use Arts: 'false'
+konqiconviewrc:
+  KParts Plugins:
+    DirFilterEnabled: 'true'
+    ImgGalleryPluginEnabled: 'true'
+    RsyncEnabled: 'false'
+    kremoteencodingpluginEnabled: 'true'
+    kshellcmdpluginEnabled: 'true'
+  Settings:
+    IconSize: '32'
+    PreviewsEnabled: 'true'
+    ShowDirectoryOverlays: 'false'
+    ShowDotFiles: 'false'
+    ShowFreeSpaceOverlays: 'false'
+    SortDescending: 'false'
+    SortDirsFirst: 'true'
+    SortingCriterion: sort_type
+konqlistviewrc:
+  Settings:
+    IconSize: '16'
+konquerorrc:
+  $Version:
+    update_info: kfmclient_3_2.upd:kfmclient_3_2
+  EmbedSettings:
+    embed-image: 'false'
+  FMSettings:
+    AlwaysNewWin: 'false'
+    DisplayFileSizeInBytes: 'false'
+    HomeURL[$e]: $HOME
+    HoverCloseButton: 'true'
+    MMBOpensTab: 'true'
+    NormalTextColor: 0,0,0
+    RenameIconDirectly: 'false'
+    ShowFileTips: 'true'
+    ShowPreviewsInFileTips: 'false'
+    StandardFont: Microsoft Sans Serif,8,-1,5,50,0,0,0,0,0
+    TabCloseActivatePrevious: 'true'
+    TextHeight: '2'
+    TextWidth: '620'
+    UnderlineLinks: 'false'
+  General:
+    ShowAlternativeShortcutConfig: 'true'
+  HTML Settings:
+    AutomaticDetectionLanguage: '0'
+  HistorySettings:
+    OpenGroups: localhost
+  KFileDialog Settings:
+    Automatic Preview: 'true'
+    Autoplay sounds: 'true'
+  KParts Plugins:
+    searchbarEnabled: 'false'
+  KPrinter Settings:
+    ApplicationOptions: ''
+    DialogReduced: 'true'
+    PrintCommand[$e]: ''
+    Printer: ''
+  KonqMainWindow Toolbar KaboodleToolbar:
+    IconText: IconOnly
+    Index: '4'
+  KonqMainWindow Toolbar Speech Toolbar:
+    IconText: IconOnly
+    Index: '4'
+  KonqMainWindow Toolbar VideoToolbar:
+    IconText: IconOnly
+    Index: '5'
+  KonqMainWindow Toolbar bookmarkToolBar:
+    Hidden: 'true'
+    IconText: IconTextRight
+    Index: '0'
+  KonqMainWindow Toolbar extraToolBar:
+    IconText: IconOnly
+    Index: '1'
+  KonqMainWindow Toolbar go:
+    IconText: IconOnly
+    Index: '4'
+  KonqMainWindow Toolbar locationToolBar:
+    IconText: IconTextRight
+    Index: '3'
+  KonqMainWindow Toolbar mainToolBar:
+    IconText: IconTextRight
+    Index: '2'
+  KonqMainWindow Toolbar q4fmToolBar1:
+    IconText: IconTextRight
+    Index: '1'
+  KonqMainWindow Toolbar q4fmToolBar2:
+    IconText: IconOnly
+    Index: '2'
+  KonqMainWindow Toolbar q4wbToolBar1:
+    Hidden: 'true'
+    IconText: IconTextRight
+    Index: '3'
+  KonqMainWindow Toolbar q4wbToolBar2:
+    Hidden: 'true'
+    IconText: IconTextRight
+    Index: '4'
+  ListView_file:
+    ColumnWidths: 121,77,77,106,82,74,96
+    FileNameColumnWidth: '621'
+    SortBy: Size
+  ModeToolBarServices:
+    external: photobook
+  Notification Messages:
+    askSaveapplication/octet-stream: 'yes'
+    plugin-application/x-shockwave-flash: 'no'
+  Open-with settings:
+    CompletionMode: '5'
+    History: ''
+  SearchBar:
+    CurrentEngine: google
+    GoogleSuggestMode: '0'
+    Mode: '1'
+  Settings:
+    BgColor: 255,255,255
+    BgImage: ''
+  Trash:
+    ConfirmDelete: 'true'
+    ConfirmTrash: 'true'
+  kuick-copy:
+    ShowRecent: '5'
+  kuick-move:
+    ShowRecent: '5'
+konsole.eventsrc:
+  Activity:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '16'
+    soundfile[$e]: ''
+  BellInvisible:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '20'
+    soundfile[$e]: KDE_Beep_Connect.ogg
+  BellVisible:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: KDE_Beep_Connect.ogg
+  Finished:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  Silence:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '17'
+    soundfile[$e]: ''
+konsolerc:
+  $Version:
+    update_info: konsole.upd:kde2.2/r1,konsole.upd:trinity.0/r1
+  Desktop Entry:
+    ActiveSession: '0'
+    AllowResize: 'false'
+    AutoResizeTabs: 'false'
+    BlinkingCursor: 'true'
+    CtrlDrag: 'true'
+    CutToBeginningOfLine: 'false'
+    DefaultSession: shell.desktop
+    DynamicTabHide: 'false'
+    EnableBidi: 'false'
+    EncodingName: Default
+    Fullscreen: 'false'
+    Height 1200: '840'
+    LineSpacing: '0'
+    MatchTabWinTitle: 'false'
+    MenuAccelerators: 'false'
+    SilenceSeconds: '10'
+    TabColor: 0,0,0
+    TabViewMode: '0'
+    TabsCycleWheel: 'true'
+    TerminalSizeHint: 'false'
+    WarnQuit: 'true'
+    Width 1600: '1061'
+    XonXoff: 'false'
+    bellmode: '3'
+    class: konsole-mainwindow#1
+    defaultfont: TerminalVector,9,-1,5,50,0,0,0,0,0
+    has frame: 'true'
+    history: '1000'
+    historyenabled: 'true'
+    keytab: default
+    metaAsAltMode: 'false'
+    schema: WhiteOnBlack.schema
+    scrollbar: '2'
+    tabbar: '2'
+    wordseps: :@-./_~
+  Notification Messages:
+    ConfirmCloseSession: 'false'
+  TipOfDay:
+    RunOnStart: 'false'
+    TipLastShown: 2019,2,4,22,3,10
+kpersonalizerrc:
+  DesktopIcons:
+    Size: '32'
+  General:
+    FirstLogin: 'false'
+  MainToolbarIcons:
+    Size: '22'
+  SmallIcons:
+    Size: '16'
+  ToolbarIcons:
+    Size: '22'
+ksmserverrc:
+  $Version:
+    update_info: ksmserver.upd:trinity
+  General:
+    confirmLogout: 'true'
+    excludeApps: ''
+    loginMode: default
+    offerShutdown: 'true'
+    screenCount: '1'
+    shutdownType: '0'
+  Logout:
+    doFadeaway: 'true'
+    doFancyLogout: 'false'
+    showLogoutStatusDlg: 'true'
+ksplashrc:
+  KSplash:
+    Theme: Unified
+ksysguard.eventsrc:
+  pattern_match:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '16'
+    soundfile[$e]: ''
+  sensor_alarm:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '16'
+    soundfile[$e]: ''
+ktaskbarrc:
+  Appearance:
+    ActiveTaskTextColor: 0,0,0
+    DrawButtons: 'true'
+    InactiveTaskTextColor: 0,0,0
+    TaskBackgroundColor: 195,195,195
+  General:
+    CycleWheel: 'false'
+    MaximumButtonHeight: '20'
+    MinimumButtonHeight: '20'
+    MinimumButtonWidth: '100'
+    ShowAllWindows: 'false'
+    SortByApp: 'false'
+ktiprc:
+  TipOfDay:
+    RunOnStart: 'false'
+kviewrc:
+  General:
+    ShowAlternativeShortcutConfig: 'false'
+  KView General:
+    Resize Mode: '2'
+  MainWindow Toolbar extraToolBar:
+    IconText: IconOnly
+    Index: '1'
+  MainWindow Toolbar mainToolBar:
+    Index: '0'
+kwriterc:
+  General Options:
+    ShowPath: 'false'
+    ShowStatusBar: 'true'
+  KFileDialog Settings: {}
+  Kate Document Defaults:
+    Allow End of Line Detection: 'true'
+    Backup Config Flags: '0'
+    Backup Prefix: ''
+    Backup Suffix: '~'
+    Basic Config Flags: '547913760'
+    Encoding: ''
+    End of Line: '0'
+    Indentation Mode: '0'
+    Indentation Width: '2'
+    KTextEditor Plugin tdetexteditor_docwordcompletion: 'false'
+    KTextEditor Plugin tdetexteditor_insertfile: 'false'
+    KTextEditor Plugin tdetexteditor_isearch: 'false'
+    KTextEditor Plugin tdetexteditor_kdatatool: 'false'
+    KTextEditor Plugin tdetexteditor_kttsd: 'false'
+    Maximal Loaded Blocks: '16'
+    PageUp/PageDown Moves Cursor: 'false'
+    Search Dir Config Depth: '3'
+    Tab Width: '4'
+    Undo Steps: '0'
+    Word Wrap: 'false'
+    Word Wrap Column: '80'
+  Kate Renderer Defaults:
+    Schema: kwrite - Normal
+    Show Indentation Lines: 'false'
+    Word Wrap Marker: 'false'
+  Kate View Defaults:
+    Auto Center Lines: '0'
+    Bookmark Menu Sorting: '0'
+    Command Line: 'false'
+    Default Mark Type: '1'
+    Dynamic Word Wrap: 'false'
+    Dynamic Word Wrap Align Indent: '80'
+    Dynamic Word Wrap Indicators: '1'
+    Folding Bar: 'true'
+    Icon Bar: 'false'
+    Line Numbers: 'false'
+    Persistent Selection: 'false'
+    Scroll Bar Marks: 'false'
+    Search Config Flags: '266'
+    Text To Search Mode: '2'
+  MainWindow:
+    Height 1200: '737'
+    Width 1600: '1060'
+  MainWindow Toolbar mainToolBar:
+    Hidden: 'true'
+profilerc:
+  inode/directory - 1:
+    AllowAsDefault: 'true'
+    Application: tde-kfmclient_dir.desktop
+    GenericServiceType: Application
+    Preference: '1'
+    ServiceType: inode/directory
+  inode/directory - 10:
+    AllowAsDefault: 'true'
+    Application: fsview_part.desktop
+    GenericServiceType: KParts/ReadOnlyPart
+    Preference: '4'
+    ServiceType: inode/directory
+  inode/directory - 11:
+    AllowAsDefault: 'true'
+    Application: konq_sidebartng.desktop
+    GenericServiceType: KParts/ReadOnlyPart
+    Preference: '3'
+    ServiceType: inode/directory
+  inode/directory - 12:
+    AllowAsDefault: 'true'
+    Application: tdefilereplacepart.desktop
+    GenericServiceType: KParts/ReadOnlyPart
+    Preference: '2'
+    ServiceType: inode/directory
+  inode/directory - 13:
+    AllowAsDefault: 'true'
+    Application: tde-cervisia.desktop
+    GenericServiceType: KParts/ReadOnlyPart
+    Preference: '1'
+    ServiceType: inode/directory
+  inode/directory - 14:
+    AllowAsDefault: 'true'
+    Application: tde-cervisia.desktop
+    Preference: '0'
+    ServiceType: inode/directory
+  inode/directory - 2:
+    AllowAsDefault: 'true'
+    Application: konq_iconview.desktop
+    GenericServiceType: KParts/ReadOnlyPart
+    Preference: '12'
+    ServiceType: inode/directory
+  inode/directory - 3:
+    AllowAsDefault: 'true'
+    Application: konq_multicolumnview.desktop
+    GenericServiceType: KParts/ReadOnlyPart
+    Preference: '11'
+    ServiceType: inode/directory
+  inode/directory - 4:
+    AllowAsDefault: 'true'
+    Application: konq_treeview.desktop
+    GenericServiceType: KParts/ReadOnlyPart
+    Preference: '10'
+    ServiceType: inode/directory
+  inode/directory - 5:
+    AllowAsDefault: 'true'
+    Application: konq_infolistview.desktop
+    GenericServiceType: KParts/ReadOnlyPart
+    Preference: '9'
+    ServiceType: inode/directory
+  inode/directory - 6:
+    AllowAsDefault: 'true'
+    Application: konq_detailedlistview.desktop
+    GenericServiceType: KParts/ReadOnlyPart
+    Preference: '8'
+    ServiceType: inode/directory
+  inode/directory - 7:
+    AllowAsDefault: 'true'
+    Application: konq_textview.desktop
+    GenericServiceType: KParts/ReadOnlyPart
+    Preference: '7'
+    ServiceType: inode/directory
+  inode/directory - 8:
+    AllowAsDefault: 'true'
+    Application: konsolepart.desktop
+    GenericServiceType: KParts/ReadOnlyPart
+    Preference: '6'
+    ServiceType: inode/directory
+  inode/directory - 9:
+    AllowAsDefault: 'true'
+    Application: photobook.desktop
+    GenericServiceType: KParts/ReadOnlyPart
+    Preference: '5'
+    ServiceType: inode/directory
+  text/plain - 1:
+    AllowAsDefault: 'true'
+    Application: tde-kwrite.desktop
+    GenericServiceType: Application
+    Preference: '3'
+    ServiceType: text/plain
+  text/plain - 2:
+    AllowAsDefault: 'true'
+    Application: SciTE.desktop
+    GenericServiceType: Application
+    Preference: '2'
+    ServiceType: text/plain
+  text/plain - 3:
+    AllowAsDefault: 'true'
+    Application: tde-kate.desktop
+    GenericServiceType: Application
+    Preference: '1'
+    ServiceType: text/plain
+  text/plain - 4:
+    AllowAsDefault: 'true'
+    Application: katepart.desktop
+    GenericServiceType: KParts/ReadOnlyPart
+    Preference: '1'
+    ServiceType: text/plain
+superkarambarc:
+  TDENewStuff:
+    ProvidersUrl[$e]: https://www.trinitydesktop.org/ocs/karamba-providers.xml
+  themes:
+    UserAddedThemes[$e]: $HOME/xpq4/usr/share/icons/kde_windows2000/index.theme
+systemtray_panelappletrc:
+  General:
+    Initial_TZ: '0'
+    RemoteZones: ''
+    Type: Plain
+  HiddenTrayIcons:
+    Hidden: ''
+  Plain:
+    Font: Microsoft Sans Serif,8,-1,5,50,0,0,0,0,0
+    Show_Date: 'false'
+    Use_Shadow: 'true'
+  SortedTrayIcons:
+    SortOrder: '!Klipper,!Kmix,!Tdepowersave,!Korgac,!Tderandrtray'
+  System Tray:
+    IconSpacing: '1'
+    ShowClockInTray: 'true'
+    systrayIconWidth: '16'
+taskbar_panelapplet_rc:
+  Appearance:
+    DrawButtons: 'true'
+  DesktopIcons:
+    ActiveEffect: none
+    ActiveSemiTransparent: 'false'
+    ActiveValue: '32'
+    Animated: 'false'
+    DefaultEffect: none
+    DefaultSemiTransparent: 'false'
+    DefaultValue: '32'
+    DisabledEffect: togray
+    DisabledSemiTransparent: 'false'
+    DisabledValue: '32'
+    DoublePixels: 'false'
+    Size: '32'
+  General:
+    CycleWheel: 'false'
+    MaximumButtonHeight: '20'
+    MinimumButtonHeight: '20'
+    MinimumButtonWidth: '100'
+    XftAntialias: 'true'
+    XftHintStyle: hintfull
+    XftSubPixel: none
+    alternateBackground: 240,240,240
+    background: 212,208,200
+    buttonBackground: 212,208,200
+    buttonForeground: 0,0,0
+    desktopFont: Microsoft Sans Serif,8,-1,5,50,0,0,0,0,0
+    fixed: Monospace,8,-1,5,50,0,0,0,0,0
+    font: Microsoft Sans Serif,8,-1,5,50,0,0,0,0,0
+    foreground: 0,0,0
+    linkColor: 0,0,192
+    menuFont: Microsoft Sans Serif,8,-1,5,50,0,0,0,0,0
+    selectBackground: 0,36,104
+    selectForeground: 255,255,255
+    shadeSortColumn: 'true'
+    taskbarFont: Microsoft Sans Serif,8,-1,5,50,0,0,0,0,0
+    toolBarFont: Microsoft Sans Serif,8,-1,5,50,0,0,0,0,0
+    visitedLinkColor: 128,0,128
+    widgetStyle: q4os_tstyle01
+    windowBackground: 255,255,255
+    windowForeground: 0,0,0
+  Global Shortcuts:
+    Activate Window Demanding Attention: none
+    Block Global Shortcuts: none
+    Defaults timestamp: Dec 19 201819:44:47
+    Desktop Screenshot: Print
+    Enable/Disable Clipboard Actions: none
+    Halt without Confirmation: none
+    Kill Window: Alt+Shift+K
+    Lock Session: Alt+Ctrl+Delete;Alt+Ctrl+L
+    Lock Session (Hotkey): default(XF86ScreenSaver)
+    Log Out: Alt+Ctrl+End
+    Log Out Without Confirmation: Alt+Ctrl+Shift+End
+    Manually Invoke Action on Current Clipboard: none
+    Mouse Emulation: none
+    Next Taskbar Entry: none
+    Popup Launch Menu: Ctrl+Escape;Super_L
+    Previous Taskbar Entry: none
+    Reboot without Confirmation: none
+    Run Command: default(Alt+F2)
+    Setup Window Shortcut: none
+    Show Klipper Popup-Menu: Alt+Ctrl+C
+    Show Taskmanager: Alt+Ctrl+M
+    Show Window List: Menu
+    Start Screen Saver: none
+    Switch One Desktop Down: none
+    Switch One Desktop Up: none
+    Switch One Desktop to the Left: none
+    Switch One Desktop to the Right: none
+    Switch User: none
+    Switch to Desktop 1: none
+    Switch to Desktop 10: none
+    Switch to Desktop 11: none
+    Switch to Desktop 12: none
+    Switch to Desktop 13: none
+    Switch to Desktop 14: none
+    Switch to Desktop 15: none
+    Switch to Desktop 16: none
+    Switch to Desktop 17: none
+    Switch to Desktop 18: none
+    Switch to Desktop 19: none
+    Switch to Desktop 2: none
+    Switch to Desktop 20: none
+    Switch to Desktop 3: none
+    Switch to Desktop 4: none
+    Switch to Desktop 5: none
+    Switch to Desktop 6: none
+    Switch to Desktop 7: none
+    Switch to Desktop 8: none
+    Switch to Desktop 9: none
+    Switch to Next Desktop: none
+    Switch to Next Keyboard Layout: default(Alt+Ctrl+K);Alt+Space
+    Switch to Next Screen: none
+    Switch to Previous Desktop: none
+    Switch to Screen 0: none
+    Switch to Screen 1: none
+    Switch to Screen 2: none
+    Switch to Screen 3: none
+    Switch to Screen 4: none
+    Switch to Screen 5: none
+    Switch to Screen 6: none
+    Switch to Screen 7: none
+    Toggle Showing Desktop: default(Alt+Ctrl+D)
+    Toggle Window Raise/Lower: none
+    Walk Through Desktop List: none
+    Walk Through Desktop List (Reverse): none
+    Walk Through Desktops: Alt+Ctrl+Tab
+    Walk Through Desktops (Reverse): Alt+Ctrl+Shift+Tab
+    Walk Through Windows: default(Alt+Tab)
+    Walk Through Windows (Reverse): default(Alt+Shift+Tab)
+    Walk Through Windows of Same Application: none
+    Walk Through Windows of Same Application (Reverse): none
+    Window Above Other Windows: none
+    Window Below Other Windows: none
+    Window Close: default(Alt+F4)
+    Window Fullscreen: none
+    Window Grow Horizontal: none
+    Window Grow Vertical: none
+    Window Lower: none
+    Window Maximize: Super_R
+    Window Maximize Horizontal: Alt+Ctrl+Shift+BracketLeft
+    Window Maximize Vertical: Alt+Ctrl+Shift+BracketRight
+    Window Minimize: Alt+Ctrl+Period
+    Window Move: none
+    Window No Border: none
+    Window On All Desktops: none
+    Window One Desktop Down: none
+    Window One Desktop Up: none
+    Window One Desktop to the Left: none
+    Window One Desktop to the Right: none
+    Window Operations Menu: Alt+Ctrl+Menu
+    Window Pack Down: none
+    Window Pack Left: Alt+Ctrl+BracketLeft
+    Window Pack Right: Alt+Ctrl+BracketRight
+    Window Pack Up: none
+    Window Raise: none
+    Window Resize: none
+    Window Screenshot: default(Alt+Print)
+    Window Shade: none
+    Window Shrink Horizontal: none
+    Window Shrink Vertical: none
+    Window to Desktop 1: none
+    Window to Desktop 10: none
+    Window to Desktop 11: none
+    Window to Desktop 12: none
+    Window to Desktop 13: none
+    Window to Desktop 14: none
+    Window to Desktop 15: none
+    Window to Desktop 16: none
+    Window to Desktop 17: none
+    Window to Desktop 18: none
+    Window to Desktop 19: none
+    Window to Desktop 2: none
+    Window to Desktop 20: none
+    Window to Desktop 3: none
+    Window to Desktop 4: none
+    Window to Desktop 5: none
+    Window to Desktop 6: none
+    Window to Desktop 7: none
+    Window to Desktop 8: none
+    Window to Desktop 9: none
+    Window to Next Desktop: none
+    Window to Next Screen: none
+    Window to Previous Desktop: none
+    Window to Screen 0: none
+    Window to Screen 1: none
+    Window to Screen 2: none
+    Window to Screen 3: none
+    Window to Screen 4: none
+    Window to Screen 5: none
+    Window to Screen 6: none
+    Window to Screen 7: none
+  Icons:
+    Theme: Winfinity
+  KDE:
+    ChangeCursor: 'false'
+    EffectAnimateCombo: 'false'
+    EffectAnimateMenu: 'false'
+    EffectAnimateTooltip: 'false'
+    EffectFadeMenu: 'false'
+    EffectFadeTooltip: 'false'
+    EffectNoTooltip: 'false'
+    EffectsEnabled: 'false'
+    InsertTearOffHandle: '0'
+    OpaqueResize: 'false'
+    ShowIconsOnPushButtons: 'false'
+    SingleClick: 'false'
+    colorScheme: thememgr.kcsrc
+    contrast: '7'
+    macStyle: 'false'
+  KFileDialog Settings:
+    Automatically select filename extension: 'true'
+    Height 1024: '217'
+    LocationCombo Completionmode: '5'
+    PathCombo Completionmode: '5'
+    Separate Directories: 'false'
+    Show Bookmarks: 'false'
+    Show Preview: 'false'
+    Show Speedbar: 'true'
+    Show hidden files: 'false'
+    Sort by: Name
+    Sort case insensitively: 'true'
+    Sort directories first: 'true'
+    Sort reversed: 'false'
+    View Style: Simple
+    Width 1280: '668'
+  Keyboard:
+    Gestures: 'false'
+  Locale:
+    Country: us
+    Language: en_US
+  MainToolbarIcons:
+    ActiveColor: 169,156,255
+    ActiveColor2: 0,0,0
+    ActiveEffect: none
+    ActiveSemiTransparent: 'false'
+    ActiveValue: '1'
+    Animated: 'false'
+    DefaultColor: 144,128,248
+    DefaultColor2: 0,0,0
+    DefaultEffect: none
+    DefaultSemiTransparent: 'false'
+    DefaultValue: '1'
+    DisabledColor: 34,202,0
+    DisabledColor2: 0,0,0
+    DisabledEffect: togray
+    DisabledSemiTransparent: 'true'
+    DisabledValue: '1'
+    DoublePixels: 'false'
+    Size: '22'
+  PanelIcons:
+    ActiveColor: invalid
+    ActiveColor2: invalid
+    ActiveEffect: none
+    ActiveSemiTransparent: 'false'
+    ActiveValue: '0'
+    Animated: 'false'
+    DefaultColor: 144,128,248
+    DefaultColor2: 0,0,0
+    DefaultEffect: none
+    DefaultSemiTransparent: 'false'
+    DefaultValue: '1'
+    DisabledColor: 34,202,0
+    DisabledColor2: 0,0,0
+    DisabledEffect: togray
+    DisabledSemiTransparent: 'true'
+    DisabledValue: '1'
+    DoublePixels: 'false'
+    Size: '32'
+  Paths:
+    Trash: $HOME/Desktop/Trash/
+  R14 XDG Updates:
+    Updated: 'true'
+    Version: '201805260'
+  Shortcuts:
+    AddBookmark: Ctrl+D
+    Back: Alt+Left
+    Close: Ctrl+F4;Ctrl+W
+    Forward: Alt+Right
+    Home: Ctrl+Home
+    PopupMenuContext: F10
+    Quit: none
+    Reload: F5
+  SmallIcons:
+    ActiveColor: 169,156,255
+    ActiveColor2: 0,0,0
+    ActiveEffect: none
+    ActiveSemiTransparent: 'false'
+    ActiveValue: '1'
+    Animated: 'false'
+    DefaultColor: 144,128,248
+    DefaultColor2: 0,0,0
+    DefaultEffect: none
+    DefaultSemiTransparent: 'false'
+    DefaultValue: '1'
+    DisabledColor: 34,202,0
+    DisabledColor2: 0,0,0
+    DisabledEffect: togray
+    DisabledSemiTransparent: 'true'
+    DisabledValue: '1'
+    DoublePixels: 'false'
+    Size: '16'
+  Toolbar style:
+    Highlighting: 'true'
+    IconText: IconOnly
+    TransparentMoving: 'true'
+  ToolbarIcons:
+    ActiveColor: 169,156,255
+    ActiveColor2: 0,0,0
+    ActiveEffect: none
+    ActiveSemiTransparent: 'false'
+    ActiveValue: '1'
+    Animated: 'false'
+    DefaultColor: 144,128,248
+    DefaultColor2: 0,0,0
+    DefaultEffect: none
+    DefaultSemiTransparent: 'false'
+    DefaultValue: '1'
+    DisabledColor: 34,202,0
+    DisabledColor2: 0,0,0
+    DisabledEffect: togray
+    DisabledSemiTransparent: 'true'
+    DisabledValue: '1'
+    DoublePixels: 'false'
+    Size: '22'
+  WM:
+    UseGlobalSettings: 'true'
+    activeBackground: 0,26,72
+    activeBlend: 14,42,119
+    activeFont: Microsoft Sans Serif,8,-1,5,75,0,0,0,0,0
+    activeForeground: 255,255,255
+    activeTitleBtnBg: 220,220,220
+    alternateBackground: 240,240,240
+    frame: 212,208,200
+    handle: 212,208,200
+    inactiveBackground: 255,255,255
+    inactiveBlend: 220,220,220
+    inactiveForeground: 255,255,255
+    inactiveFrame: 212,208,200
+    inactiveHandle: 212,208,200
+    inactiveTitleBtnBg: 220,220,220
+tdeab2tdeabcrc:
+  Startup:
+    EnableAutostart: 'false'
+tdelaunchrc:
+  FeedbackStyle:
+    BusyCursor: 'false'
+tdepowersave.eventsrc:
+  autodimm_down_event:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  autodimm_up_event:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  autosuspend_event:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '17'
+    soundfile[$e]: KDE_Event_2.ogg
+  battery_critical_event:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '17'
+    soundfile[$e]: KDE_Event_1.ogg
+  battery_low_event:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '17'
+    soundfile[$e]: KDE_Event_1.ogg
+  battery_warning_event:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '17'
+    soundfile[$e]: KDE_Event_1.ogg
+  brightness_down_event:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  brightness_up_event:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  freeze_event:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  lid_closed_event:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  lid_opened_event:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  plug_event:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '17'
+    soundfile[$e]: KDE_Dialog_Appear.ogg
+  resume_from_freeze_event:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  resume_from_standby_event:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  resume_from_suspend2disk_event:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  resume_from_suspend2ram_event:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  scheme_Acoustic:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  scheme_Performance:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  scheme_Powersave:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  scheme_Presentation:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  scheme_Unknown:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  standby_event:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  suspend2disk_event:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  suspend2ram_event:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  unplug_event:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '81'
+    soundfile[$e]: KDE_Dialog_Disappear.ogg
+tdepowersaverc:
+  General:
+    AlreadyStarted: 'true'
+    Autostart: 'false'
+    batteryCritical: '1'
+    batteryCriticalAction: ''
+    batteryLow: '1'
+    batteryLowAction: ''
+    batteryWarning: '1'
+tderandrtrayrc:
+  General:
+    Autostart: 'true'
+twin.eventsrc:
+  $Version:
+    update_info: twinsticky.upd:stickyupd3.1,twiniconify.upd:iconifyupd3.1
+  activate:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  close:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: KDE_Window_Close.ogg
+  deiconify:
+    presentation: '0'
+  delete:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  demandsattentioncurrent:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '64'
+    soundfile[$e]: ''
+  demandsattentionother:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '64'
+    soundfile[$e]: ''
+  desktop1:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: KDE_Desktop_1.ogg
+  desktop10:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  desktop11:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  desktop12:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  desktop13:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  desktop14:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  desktop15:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  desktop16:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  desktop17:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  desktop18:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  desktop19:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  desktop2:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: KDE_Desktop_2.ogg
+  desktop20:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  desktop3:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: KDE_Desktop_3.ogg
+  desktop4:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: KDE_Desktop_4.ogg
+  desktop5:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: KDE_Desktop_5.ogg
+  desktop6:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: KDE_Desktop_6.ogg
+  desktop7:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: KDE_Desktop_7.ogg
+  desktop8:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: KDE_Desktop_8.ogg
+  desktop9:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  iconify:
+    presentation: '0'
+  maximize:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: KDE_Window_UnHide.ogg
+  minimize:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: KDE_Window_Iconify.ogg
+  moveend:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  movestart:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  new:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: KDE_Window_Open.ogg
+  not_on_all_desktops:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '1'
+    soundfile[$e]: KDE_Window_UnSticky.ogg
+  on_all_desktops:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: KDE_Window_Sticky.ogg
+  resizeend:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  resizestart:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: ''
+  shadedown:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: KDE_Window_Shade_Down.ogg
+  shadeup:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: KDE_Window_Shade_Up.ogg
+  sticky:
+    presentation: '0'
+  transdelete:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: KDE_Dialog_Disappear.ogg
+  transnew:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: KDE_Dialog_Appear.ogg
+  unmaximize:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: KDE_Window_Hide.ogg
+  unminimize:
+    commandline[$e]: ''
+    logfile[$e]: ''
+    presentation: '0'
+    soundfile[$e]: KDE_Window_DeIconify.ogg
+  unsticky:
+    presentation: '0'
+twin_update:
+  $Version:
+    update_info: twinupdatewindowsettings.upd:trinity3b1
+twinrc:
+  $Version:
+    update_info: twin.upd:trinity.0r1,twin.upd:trinity.2Xinerama,twin_focus1.upd:twin_focus1,twin_focus2.upd:twin_focus2,twin3_plugin.upd:trinity.2
+  Desktops:
+    Name_1: ''
+    Name_2: ''
+    Name_3: ''
+    Name_4: ''
+    Number: '2'
+  MouseBindings:
+    CommandActiveTitlebar1: Raise
+    CommandActiveTitlebar2: Lower
+    CommandActiveTitlebar3: Operations menu
+    CommandAll1: Move
+    CommandAll2: Toggle raise and lower
+    CommandAll3: Resize
+    CommandAllKey: Alt
+    CommandAllWheel: Nothing
+    CommandInactiveTitlebar1: Activate and raise
+    CommandInactiveTitlebar2: Activate and lower
+    CommandInactiveTitlebar3: Operations menu
+    CommandTitlebarWheel: Nothing
+    CommandWindow1: Activate, raise and pass click
+    CommandWindow2: Activate and pass click
+    CommandWindow3: Activate and pass click
+  Notification Messages:
+    UseTranslucency: 'false'
+  PopupInfo:
+    FocusStealingPreventionLevel: '1'
+    ShowPopup: 'false'
+  Style:
+    BorderSize: '1'
+    ButtonsOnLeft: M
+    ButtonsOnRight: IA_X
+    CustomButtonPositions: 'true'
+    InactiveShadowColour: 0,0,0
+    InactiveShadowEnabled: 'true'
+    InactiveShadowOpacity: '0.7'
+    InactiveShadowThickness: '5'
+    InactiveShadowXOffset: '0'
+    InactiveShadowYOffset: '5'
+    PluginLib: twin3_redmond
+    ShadowColour: 0,0,0
+    ShadowDocks: 'false'
+    ShadowEnabled: 'false'
+    ShadowOpacity: '0.7'
+    ShadowOverrides: 'false'
+    ShadowThickness: '10'
+    ShadowTopMenus: 'false'
+    ShadowXOffset: '0'
+    ShadowYOffset: '10'
+    ShowToolTips: 'true'
+  TabBox:
+    TraverseAll: 'true'
+  ThirdPartyWM:
+    WMAdditionalArguments: ''
+    WMExecutable: twin
+  Translucency:
+    ActiveWindowOpacity: '100'
+    ActiveWindowShadowSize: '0'
+    DockOpacity: '80'
+    DockShadowSize: '0'
+    InactiveWindowOpacity: '75'
+    InactiveWindowShadowSize: '0'
+    MenuShadowSize: '100'
+    MovingWindowOpacity: '25'
+    OnlyDecoTranslucent: 'false'
+    RemoveShadowsOnMove: 'false'
+    RemoveShadowsOnResize: 'false'
+    ResetKompmgr: 'false'
+    TranslucentActiveWindows: 'false'
+    TranslucentDocks: 'false'
+    TranslucentInactiveWindows: 'false'
+    TranslucentMovingWindows: 'false'
+    TreatKeepAboveAsActive: 'true'
+  Windows:
+    ActiveMouseScreen: 'false'
+    AltTabStyle: KDE
+    AnimateMinimize: 'false'
+    AnimateMinimizeSpeed: '5'
+    AnimateShade: 'false'
+    AutoRaise: 'off'
+    AutoRaiseInterval: '750'
+    BorderSnapZone: '0'
+    ClickRaise: 'on'
+    DelayFocus: 'off'
+    DelayFocusInterval: '750'
+    ElectricBorderDelay: '150'
+    ElectricBorders: '0'
+    FocusPolicy: ClickToFocus
+    GeometryTip: 'false'
+    HideUtilityWindowsForInactive: 'true'
+    IgnoreFocusStealingClasses: tdeio_uiserver
+    MaximizeButtonLeftClickCommand: Maximize
+    MaximizeButtonMiddleClickCommand: Maximize (vertical only)
+    MaximizeButtonRightClickCommand: Maximize (horizontal only)
+    MoveMode: Opaque
+    MoveResizeMaximizedWindows: 'false'
+    Placement: Smart
+    ResizeMode: Opaque
+    RollOverDesktops: 'true'
+    SeparateScreenFocus: 'false'
+    ShadeHover: 'off'
+    ShadeHoverInterval: '250'
+    SnapOnlyWhenOverlapping: 'false'
+    TitlebarDoubleClickCommand: Maximize
+    WindowSnapZone: '0'
+twinrules_update:
+  $Version:
+    update_info: twin_fsp_workarounds_1.upd:trinity51
+uiserverrc:
+  ProgressList:
+    Col0: '70'
+    Col1: '498'
+    Col3: '61'
+    Col4: '231'
+    Col5: '68'
+    Col6: '70'
+    Col7: '78'
+    Col8: '1520'
+    Enabled2: 'false'
+    FixedColumnWidths: 'false'
+    ShowListHeader: 'true'
+  UIServer:
+    InitialHeight: '150'
+    InitialWidth: '460'
+    KeepListOpen: 'false'
+    ShowList: 'false'
+    ShowStatusBar: 'false'
+    ShowSystemTray: 'false'
+    ShowToolBar: 'true'
+katerc:
+  Filelist:
+    Edit Shade: 255,102,153
+    Shading Enabled: 'true'
+    Sort Type: '0'
+    View Shade: 51,204,255
+  General:
+    Days Meta Infos: '30'
+    Modified Notification: 'false'
+    Number of recent files: '10'
+    Restore Window Configuration: 'true'
+    Save Meta Infos: 'true'
+    Session Exit: ask
+    Show Console: 'false'
+    Show Full Path in Title: 'false'
+    Show session name: 'false'
+    Startup Session: manual
+    Sync Konsole: 'true'
+    UseInstance: 'false'
+  Kate Document Defaults:
+    Allow End of Line Detection: 'true'
+    Backup Config Flags: '0'
+    Backup Prefix: ''
+    Backup Suffix: '~'
+    Basic Config Flags: '547913760'
+    Encoding: ''
+    End of Line: '0'
+    Indentation Mode: '0'
+    Indentation Width: '2'
+    KTextEditor Plugin tdetexteditor_docwordcompletion: 'false'
+    KTextEditor Plugin tdetexteditor_insertfile: 'false'
+    KTextEditor Plugin tdetexteditor_isearch: 'false'
+    KTextEditor Plugin tdetexteditor_kdatatool: 'false'
+    Maximal Loaded Blocks: '16'
+    PageUp/PageDown Moves Cursor: 'false'
+    Search Dir Config Depth: '3'
+    Tab Width: '4'
+    Undo Steps: '0'
+    Word Wrap: 'false'
+    Word Wrap Column: '80'
+  Kate Renderer Defaults:
+    Schema: kate - Normal
+    Show Indentation Lines: 'true'
+    Word Wrap Marker: 'false'
+  Kate View Defaults:
+    Auto Center Lines: '0'
+    Bookmark Menu Sorting: '0'
+    Command Line: 'false'
+    Default Mark Type: '1'
+    Dynamic Word Wrap: 'true'
+    Dynamic Word Wrap Align Indent: '80'
+    Dynamic Word Wrap Indicators: '1'
+    Folding Bar: 'true'
+    Icon Bar: 'false'
+    Line Numbers: 'true'
+    Persistent Selection: 'false'
+    Scroll Bar Marks: 'false'
+    Search Config Flags: '266'
+    Text To Search Mode: '2'
+  TipOfDay:
+    TipLastShown: 2026,9,15,1,38,3
+  fileselector:
+    AutoSyncEvents: '0'
+    current filter: ''
+    dir history: ''
+    filter history: ''
+    filter history len: '9'
+    last filter: ''
+    location[$e]: ''
+    pathcombo history len: '9'
+    restore last filter: 'true'
+    restore location: 'true'
+    toolbar actions: up,back,forward,home,short view,detailed view,bookmarks,sync_dir
+  fileselector:dir:
+    Separate Directories: 'false'
+    Show Preview: 'false'
+    Show hidden files: 'false'
+    Sort by: Name
+    Sort case insensitively: 'true'
+    Sort directories first: 'true'
+    Sort reversed: 'false'
+    View Style: Simple
+  fileselector:view:
+    ColumnOrder: 0,1,2,3,4,5
+    ColumnWidths: 41,34,35,74,45,43
+    SortAscending: 'true'
+    SortColumn: '0'
+metabarrc:
+  General:
+    Actions: ''
+    AnimateResize: 'false'
+    Links: ''
+    MaxActions: '3'
+    MaxEntries: '3'
+    ShowFrame: 'true'
+    ShowServicemenus: 'true'
+    Theme: 'winfinity-classic'
+

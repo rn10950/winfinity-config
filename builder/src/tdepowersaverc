@@ -1,0 +1,8 @@
+[General]
+AlreadyStarted=true
+Autostart=false
+batteryCritical=1
+batteryCriticalAction=
+batteryLow=1
+batteryLowAction=
+batteryWarning=1

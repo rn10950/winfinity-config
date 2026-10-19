@@ -1,0 +1,6 @@
+[General Options]
+Last system check version=1.0.5
+check system config=true
+
+[TipOfDay]
+TipLastShown=2019,7,20,10,38,51

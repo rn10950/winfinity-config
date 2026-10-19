@@ -1,0 +1,21 @@
+[Colors]
+CurrentPalette=
+
+[General]
+InitialHeight 1024=568
+InitialHeight 1200=568
+InitialHeight 1216=680
+InitialWidth 1280=752
+InitialWidth 1600=1237
+InitialWidth 3520=752
+SplitterSizes=316,432
+
+[HTML Settings]
+AutomaticDetectionLanguage=0
+
+[Index]
+IconSize=Medium
+ViewMode=Tree
+
+[KFileDialog Settings]
+Recent Files[$e]=

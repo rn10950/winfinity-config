@@ -1,0 +1,5 @@
+description: QMMP Winamp Skin
+id: qmmp
+app: qmmp
+changes:
+processFiles: [/.config/qmmp/qmmp.conf]

@@ -1,0 +1,5 @@
+description: KeePassXC
+id: keepassxc
+app: keepassxc
+changes: 
+processFiles: 

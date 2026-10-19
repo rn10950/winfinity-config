@@ -1,0 +1,15 @@
+[KParts Plugins]
+DirFilterEnabled=true
+ImgGalleryPluginEnabled=true
+RsyncEnabled=false
+kremoteencodingpluginEnabled=true
+kshellcmdpluginEnabled=true
+
+[Settings]
+IconSize=32
+PreviewsEnabled=true
+ShowDirectoryOverlays=false
+ShowDotFiles=true
+SortDescending=false
+SortDirsFirst=true
+SortingCriterion=sort_type

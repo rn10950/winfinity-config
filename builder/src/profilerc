@@ -1,0 +1,124 @@
+[inode/directory - 1]
+AllowAsDefault=true
+Application=tde-kfmclient_dir.desktop
+GenericServiceType=Application
+Preference=1
+ServiceType=inode/directory
+
+[inode/directory - 10]
+AllowAsDefault=true
+Application=fsview_part.desktop
+GenericServiceType=KParts/ReadOnlyPart
+Preference=4
+ServiceType=inode/directory
+
+[inode/directory - 11]
+AllowAsDefault=true
+Application=konq_sidebartng.desktop
+GenericServiceType=KParts/ReadOnlyPart
+Preference=3
+ServiceType=inode/directory
+
+[inode/directory - 12]
+AllowAsDefault=true
+Application=tdefilereplacepart.desktop
+GenericServiceType=KParts/ReadOnlyPart
+Preference=2
+ServiceType=inode/directory
+
+[inode/directory - 13]
+AllowAsDefault=true
+Application=tde-cervisia.desktop
+GenericServiceType=KParts/ReadOnlyPart
+Preference=1
+ServiceType=inode/directory
+
+[inode/directory - 14]
+AllowAsDefault=true
+Application=tde-cervisia.desktop
+Preference=0
+ServiceType=inode/directory
+
+[inode/directory - 2]
+AllowAsDefault=true
+Application=konq_iconview.desktop
+GenericServiceType=KParts/ReadOnlyPart
+Preference=12
+ServiceType=inode/directory
+
+[inode/directory - 3]
+AllowAsDefault=true
+Application=konq_multicolumnview.desktop
+GenericServiceType=KParts/ReadOnlyPart
+Preference=11
+ServiceType=inode/directory
+
+[inode/directory - 4]
+AllowAsDefault=true
+Application=konq_treeview.desktop
+GenericServiceType=KParts/ReadOnlyPart
+Preference=10
+ServiceType=inode/directory
+
+[inode/directory - 5]
+AllowAsDefault=true
+Application=konq_infolistview.desktop
+GenericServiceType=KParts/ReadOnlyPart
+Preference=9
+ServiceType=inode/directory
+
+[inode/directory - 6]
+AllowAsDefault=true
+Application=konq_detailedlistview.desktop
+GenericServiceType=KParts/ReadOnlyPart
+Preference=8
+ServiceType=inode/directory
+
+[inode/directory - 7]
+AllowAsDefault=true
+Application=konq_textview.desktop
+GenericServiceType=KParts/ReadOnlyPart
+Preference=7
+ServiceType=inode/directory
+
+[inode/directory - 8]
+AllowAsDefault=true
+Application=konsolepart.desktop
+GenericServiceType=KParts/ReadOnlyPart
+Preference=6
+ServiceType=inode/directory
+
+[inode/directory - 9]
+AllowAsDefault=true
+Application=photobook.desktop
+GenericServiceType=KParts/ReadOnlyPart
+Preference=5
+ServiceType=inode/directory
+
+[text/plain - 1]
+AllowAsDefault=true
+Application=tde-kwrite.desktop
+GenericServiceType=Application
+Preference=3
+ServiceType=text/plain
+
+[text/plain - 2]
+AllowAsDefault=true
+Application=SciTE.desktop
+GenericServiceType=Application
+Preference=2
+ServiceType=text/plain
+
+[text/plain - 3]
+AllowAsDefault=true
+Application=tde-kate.desktop
+GenericServiceType=Application
+Preference=1
+ServiceType=text/plain
+
+[text/plain - 4]
+AllowAsDefault=true
+Application=katepart.desktop
+GenericServiceType=KParts/ReadOnlyPart
+Preference=1
+ServiceType=text/plain

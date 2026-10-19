@@ -1,0 +1,5 @@
+description: SMPlayer - Enable MPC-HC GUI
+id: smplayer
+app: smplayer # this and id typically identical, app must be the PWD name 
+changes: 
+processFiles: 

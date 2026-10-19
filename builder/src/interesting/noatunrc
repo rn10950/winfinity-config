@@ -1,0 +1,40 @@
+EngineState=0
+LoopStyle=0
+Modules=excellent.plugin,splitplaylist.plugin,marquis.plugin,systray.plugin,metatag.plugin
+Version=2.10.0
+Volume=100
+
+[$Version]
+update_info=noatun.upd:noatun20
+
+[Equalizer]
+enabled=false
+
+[Excellent main]
+IconText=IconOnly
+Index=1
+
+[Tags]
+LoadAuto=true
+
+[excellent]
+Height 1200=169
+Width 1600=300
+height=169
+mappingState=1
+menuShown=true
+volumeShown=false
+width=300
+
+[excellent Toolbar main]
+IconText=IconOnly
+Index=1
+
+[excellent Toolbar mainToolBar]
+Hidden=true
+Index=0
+
+[splitplaylist]
+current=4
+file[$e]=
+modified=false

@@ -1,0 +1,5 @@
+[$Version]
+update_info=kcmdisplayrc.upd:trinity
+
+[X11]
+exportKDEColors=true

@@ -1,0 +1,20 @@
+[General]
+Initial_TZ=0
+RemoteZones=
+Type=Plain
+
+[HiddenTrayIcons]
+Hidden=
+
+[Plain]
+Font=Microsoft Sans Serif,8,-1,5,50,0,0,0,0,0
+Show_Date=false
+Use_Shadow=true
+
+[SortedTrayIcons]
+SortOrder=!Klipper,!Kmix,!Tdepowersave,!Korgac,!Tderandrtray
+
+[System Tray]
+IconSpacing=1
+ShowClockInTray=true
+systrayIconWidth=16

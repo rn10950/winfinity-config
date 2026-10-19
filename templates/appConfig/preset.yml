@@ -1,0 +1,6 @@
+description: Description of App preset
+id: appname
+app: appname # this and id typically identical, app must be the PWD name 
+changes: # TDEconfig change dict
+processFiles: [/.config/someapp/somef.ile] # this replaces variables with resolved values 
+#                                            (for app config files that dont process shell variables e.g $HOME)

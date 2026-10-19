@@ -1,0 +1,85 @@
+[1]
+Description=(Default) Disable focus stealing prevention for XV
+fsplevel=0
+fsplevelrule=2
+wmclass=^xv .*
+wmclasscomplete=true
+wmclassmatch=3
+
+
+[4]
+Description=(Default) Allow focus stealing by the screen locker
+fsplevel=0
+fsplevelrule=2
+title=Desktop Session Locked
+titlematch=0
+types=32
+wmclass=kdesktop_lock
+wmclasscomplete=false
+wmclassmatch=1
+
+[6]
+Description=(Default) Allow focus stealing by the kdesktop run dialog
+fsplevel=0
+fsplevelrule=2
+title=Run Command
+titlematch=0
+types=32
+wmclass=kdesktop
+wmclasscomplete=false
+wmclassmatch=1
+
+[7]
+Description=(Default) Allow focus stealing by the settings test dialog
+fsplevel=0
+fsplevelrule=2
+title=Confirm Display Settings - TDE Control Module
+titlematch=0
+types=32
+windowrole=mainktimerdialog
+windowrolematch=1
+wmclass=
+wmclasscomplete=false
+wmclassmatch=0
+
+[8]
+Description=(Default) Hide system modal dialog class from taskbar
+fsplevel=0
+fsplevelrule=2
+skiptaskbar=true
+skiptaskbarrule=2
+types=32
+windowrole=systemmodaldialogclass
+windowrolematch=1
+wmclass=
+wmclasscomplete=false
+wmclassmatch=0
+
+[9]
+Description=Run Command
+acceptfocus=true
+acceptfocusrule=2
+clientmachinematch=0
+fsplevel=0
+fsplevelrule=1
+position=2,963
+positionrule=3
+size=472,203
+sizerule=3
+title=Run Command
+titlematch=1
+types=32
+windowrole=unnamed
+windowrolematch=1
+wmclass=kdesktop
+wmclasscomplete=false
+wmclassmatch=1
+
+[Directories]
+kioskAdmin[$d]
+
+[Directories-test_profile_1]
+prefixes[$d]
+
+[General]
+count=9

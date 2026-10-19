@@ -1,0 +1,10 @@
+description: Winfinity Dev Options
+id: dev-tools
+changes:
+  konqiconviewrc:
+    Settings:
+      ShowDotFiles: 'true'
+      ShowFreeSpaceOverlays: 'true'
+  kwriterc:
+    Kate View Defaults:
+      Line Numbers: 'true'
